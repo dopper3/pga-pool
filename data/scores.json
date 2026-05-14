@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 0,
     "cutCount": 0,
-    "lastUpdated": "2026-05-14T15:46:02.309048+00:00"
+    "lastUpdated": "2026-05-14T15:48:03.486541+00:00"
   },
   "players": [
     {
@@ -324,7 +324,7 @@
       "position": "T4",
       "scoreToPar": -2.0,
       "scoreDisplay": "-2",
-      "thru": 10,
+      "thru": 11,
       "teeTime": "2026-05-14T12:29Z",
       "status": "active",
       "rounds": [
@@ -4307,6 +4307,44 @@
       ]
     },
     {
+      "id": "4895429",
+      "name": "David Puig",
+      "shortName": "D. Puig",
+      "country": "Spain",
+      "position": "T42",
+      "scoreToPar": 1.0,
+      "scoreDisplay": "+1",
+      "thru": 18,
+      "teeTime": "2026-05-14T10:50Z",
+      "status": "final",
+      "rounds": [
+        1,
+        null,
+        null,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "4589438",
       "name": "Harry Hall",
       "shortName": "H. Hall",
@@ -4580,7 +4618,7 @@
       "position": "T42",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
-      "thru": 16,
+      "thru": 17,
       "teeTime": "2026-05-14T10:45Z",
       "status": "active",
       "rounds": [
@@ -4696,44 +4734,6 @@
       "scoreDisplay": "+2",
       "thru": 9,
       "teeTime": "2026-05-14T12:51Z",
-      "status": "active",
-      "rounds": [
-        2,
-        null,
-        null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
-      "id": "4895429",
-      "name": "David Puig",
-      "shortName": "D. Puig",
-      "country": "Spain",
-      "position": "T42",
-      "scoreToPar": 2.0,
-      "scoreDisplay": "+2",
-      "thru": 17,
-      "teeTime": "2026-05-14T10:50Z",
       "status": "active",
       "rounds": [
         2,
@@ -4960,7 +4960,7 @@
       "position": "T42",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
-      "thru": 10,
+      "thru": 11,
       "teeTime": "2026-05-14T12:29Z",
       "status": "active",
       "rounds": [
@@ -5416,7 +5416,7 @@
       "position": "T60",
       "scoreToPar": 4.0,
       "scoreDisplay": "+4",
-      "thru": 10,
+      "thru": 11,
       "teeTime": "2026-05-14T12:35Z",
       "status": "active",
       "rounds": [
@@ -5751,44 +5751,6 @@
       ]
     },
     {
-      "id": "5145292",
-      "name": "Braden Shattuck",
-      "shortName": "B. Shattuck",
-      "country": "USA",
-      "position": "T74",
-      "scoreToPar": 8.0,
-      "scoreDisplay": "+8",
-      "thru": 16,
-      "teeTime": "2026-05-14T10:45Z",
-      "status": "active",
-      "rounds": [
-        8,
-        null,
-        null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "2233",
       "name": "Bryce Fisher",
       "shortName": "B. Fisher",
@@ -5915,6 +5877,44 @@
       "status": "active",
       "rounds": [
         8,
+        null,
+        null,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "5145292",
+      "name": "Braden Shattuck",
+      "shortName": "B. Shattuck",
+      "country": "USA",
+      "position": "78",
+      "scoreToPar": 9.0,
+      "scoreDisplay": "+9",
+      "thru": 17,
+      "teeTime": "2026-05-14T10:45Z",
+      "status": "active",
+      "rounds": [
+        9,
         null,
         null,
         null
