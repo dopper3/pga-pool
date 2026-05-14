@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 0,
     "cutCount": 0,
-    "lastUpdated": "2026-05-14T17:32:05.710751+00:00"
+    "lastUpdated": "2026-05-14T17:34:05.661771+00:00"
   },
   "players": [
     {
@@ -1882,7 +1882,7 @@
       "position": "T26",
       "scoreToPar": 0.0,
       "scoreDisplay": "E",
-      "thru": 1,
+      "thru": 2,
       "teeTime": "2026-05-14T16:59Z",
       "status": "active",
       "rounds": [
@@ -1920,7 +1920,7 @@
       "position": "T26",
       "scoreToPar": 0.0,
       "scoreDisplay": "E",
-      "thru": 1,
+      "thru": 2,
       "teeTime": "2026-05-14T16:59Z",
       "status": "active",
       "rounds": [
@@ -4656,7 +4656,7 @@
       "position": "T71",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
-      "thru": 16,
+      "thru": 17,
       "teeTime": "2026-05-14T12:24Z",
       "status": "active",
       "rounds": [
@@ -5029,44 +5029,6 @@
       ]
     },
     {
-      "id": "186",
-      "name": "Padraig Harrington",
-      "shortName": "P. Harrington",
-      "country": "Ireland",
-      "position": "T86",
-      "scoreToPar": 3.0,
-      "scoreDisplay": "+3",
-      "thru": 16,
-      "teeTime": "2026-05-14T12:24Z",
-      "status": "active",
-      "rounds": [
-        3,
-        null,
-        null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "1651",
       "name": "Billy Horschel",
       "shortName": "B. Horschel",
@@ -5190,6 +5152,44 @@
       "scoreDisplay": "+4",
       "thru": 4,
       "teeTime": "2026-05-14T16:21Z",
+      "status": "active",
+      "rounds": [
+        4,
+        null,
+        null,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "186",
+      "name": "Padraig Harrington",
+      "shortName": "P. Harrington",
+      "country": "Ireland",
+      "position": "T86",
+      "scoreToPar": 4.0,
+      "scoreDisplay": "+4",
+      "thru": 17,
+      "teeTime": "2026-05-14T12:24Z",
       "status": "active",
       "rounds": [
         4,
@@ -5447,44 +5447,6 @@
       ]
     },
     {
-      "id": "11383",
-      "name": "Max McGreevy",
-      "shortName": "M. McGreevy",
-      "country": "USA",
-      "position": "T101",
-      "scoreToPar": 5.0,
-      "scoreDisplay": "+5",
-      "thru": 15,
-      "teeTime": "2026-05-14T12:51Z",
-      "status": "active",
-      "rounds": [
-        5,
-        null,
-        null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "11119",
       "name": "Wyndham Clark",
       "shortName": "W. Clark",
@@ -5527,7 +5489,7 @@
       "name": "Francisco Bidé",
       "shortName": "F. Bidé",
       "country": "Argentina",
-      "position": "T104",
+      "position": "T103",
       "scoreToPar": 6.0,
       "scoreDisplay": "+6",
       "thru": 18,
@@ -5565,12 +5527,50 @@
       "name": "Lucas Glover",
       "shortName": "L. Glover",
       "country": "USA",
-      "position": "T104",
+      "position": "T103",
       "scoreToPar": 6.0,
       "scoreDisplay": "+6",
       "thru": 18,
       "teeTime": "2026-05-14T11:40Z",
       "status": "final",
+      "rounds": [
+        6,
+        null,
+        null,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "11383",
+      "name": "Max McGreevy",
+      "shortName": "M. McGreevy",
+      "country": "USA",
+      "position": "T103",
+      "scoreToPar": 6.0,
+      "scoreDisplay": "+6",
+      "thru": 16,
+      "teeTime": "2026-05-14T12:51Z",
+      "status": "active",
       "rounds": [
         6,
         null,
@@ -5720,7 +5720,7 @@
       "position": "T106",
       "scoreToPar": 7.0,
       "scoreDisplay": "+7",
-      "thru": 15,
+      "thru": 16,
       "teeTime": "2026-05-14T12:51Z",
       "status": "active",
       "rounds": [
