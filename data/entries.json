@@ -189,8 +189,16 @@
     {
       "source": "form",
       "displayName": "Cleo",
-      "submittedAt": "2026-05-14T09:45:35+00:00",
+      "submittedAt": "2026-05-14T09:48:58+00:00",
       "picks": [
+        {
+          "id": "4425906",
+          "name": "Cameron Young"
+        },
+        {
+          "id": "9780",
+          "name": "Jon Rahm"
+        },
         {
           "id": "3470",
           "name": "Rory McIlroy"
@@ -202,14 +210,6 @@
         {
           "id": "6937",
           "name": "Stephan Jaeger"
-        },
-        {
-          "id": "4425906",
-          "name": "Cameron Young"
-        },
-        {
-          "id": "9780",
-          "name": "Jon Rahm"
         },
         {
           "id": "5539",
