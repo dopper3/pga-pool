@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 0,
     "cutCount": 0,
-    "lastUpdated": "2026-05-14T17:54:05.726931+00:00"
+    "lastUpdated": "2026-05-14T17:56:08.381577+00:00"
   },
   "players": [
     {
@@ -172,7 +172,7 @@
       "position": "T5",
       "scoreToPar": -2.0,
       "scoreDisplay": "-2",
-      "thru": 4,
+      "thru": 5,
       "teeTime": "2026-05-14T16:37Z",
       "status": "active",
       "rounds": [
@@ -400,7 +400,7 @@
       "position": "T11",
       "scoreToPar": -1.0,
       "scoreDisplay": "-1",
-      "thru": 1,
+      "thru": 2,
       "teeTime": "2026-05-14T17:21Z",
       "status": "active",
       "rounds": [
@@ -628,7 +628,7 @@
       "position": "T11",
       "scoreToPar": -1.0,
       "scoreDisplay": "-1",
-      "thru": 2,
+      "thru": 3,
       "teeTime": "2026-05-14T17:05Z",
       "status": "active",
       "rounds": [
@@ -742,7 +742,7 @@
       "position": "T11",
       "scoreToPar": -1.0,
       "scoreDisplay": "-1",
-      "thru": 2,
+      "thru": 3,
       "teeTime": "2026-05-14T17:05Z",
       "status": "active",
       "rounds": [
@@ -1616,7 +1616,7 @@
       "position": "T28",
       "scoreToPar": 0.0,
       "scoreDisplay": "E",
-      "thru": 1,
+      "thru": 2,
       "teeTime": "2026-05-14T17:21Z",
       "status": "active",
       "rounds": [
@@ -1844,7 +1844,7 @@
       "position": "T28",
       "scoreToPar": 0.0,
       "scoreDisplay": "E",
-      "thru": 2,
+      "thru": 3,
       "teeTime": "2026-05-14T17:05Z",
       "status": "active",
       "rounds": [
@@ -1920,7 +1920,7 @@
       "position": "T28",
       "scoreToPar": 0.0,
       "scoreDisplay": "E",
-      "thru": 3,
+      "thru": 4,
       "teeTime": "2026-05-14T16:48Z",
       "status": "active",
       "rounds": [
@@ -2262,7 +2262,7 @@
       "position": "T28",
       "scoreToPar": 0.0,
       "scoreDisplay": "E",
-      "thru": 3,
+      "thru": 4,
       "teeTime": "2026-05-14T16:48Z",
       "status": "active",
       "rounds": [
@@ -3851,44 +3851,6 @@
       ]
     },
     {
-      "id": "4425904",
-      "name": "Michael Thorbjornsen",
-      "shortName": "M. Thorbjornsen",
-      "country": "USA",
-      "position": "T77",
-      "scoreToPar": 1.0,
-      "scoreDisplay": "+1",
-      "thru": 4,
-      "teeTime": "2026-05-14T16:37Z",
-      "status": "active",
-      "rounds": [
-        1,
-        null,
-        null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "11253",
       "name": "Rasmus Højgaard",
       "shortName": "R. Højgaard",
@@ -4506,6 +4468,44 @@
       "scoreDisplay": "+2",
       "thru": 16,
       "teeTime": "2026-05-14T12:46Z",
+      "status": "active",
+      "rounds": [
+        2,
+        null,
+        null,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "4425904",
+      "name": "Michael Thorbjornsen",
+      "shortName": "M. Thorbjornsen",
+      "country": "USA",
+      "position": "T77",
+      "scoreToPar": 2.0,
+      "scoreDisplay": "+2",
+      "thru": 5,
+      "teeTime": "2026-05-14T16:37Z",
       "status": "active",
       "rounds": [
         2,
