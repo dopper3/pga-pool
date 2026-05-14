@@ -30,6 +30,68 @@
           "name": "Patrick Reed"
         }
       ]
+    },
+    {
+      "source": "form",
+      "displayName": "Mike Litteris",
+      "submittedAt": "2026-05-13T23:15:05+00:00",
+      "picks": [
+        {
+          "id": "4425906",
+          "name": "Cameron Young"
+        },
+        {
+          "id": "9478",
+          "name": "Scottie Scheffler"
+        },
+        {
+          "id": "9780",
+          "name": "Jon Rahm"
+        },
+        {
+          "id": "3470",
+          "name": "Rory McIlroy"
+        },
+        {
+          "id": "4375972",
+          "name": "Ludvig Åberg"
+        },
+        {
+          "id": "9037",
+          "name": "Matt Fitzpatrick"
+        }
+      ]
+    },
+    {
+      "source": "form",
+      "displayName": "Stella Virgin",
+      "submittedAt": "2026-05-13T23:27:03+00:00",
+      "picks": [
+        {
+          "id": "10140",
+          "name": "Xander Schauffele"
+        },
+        {
+          "id": "5539",
+          "name": "Tommy Fleetwood"
+        },
+        {
+          "id": "6798",
+          "name": "Brooks Koepka"
+        },
+        {
+          "id": "10046",
+          "name": "Bryson DeChambeau"
+        },
+        {
+          "id": "4425906",
+          "name": "Cameron Young"
+        },
+        {
+          "id": "9478",
+          "name": "Scottie Scheffler"
+        }
+      ]
     }
   ],
   "rejected": []
