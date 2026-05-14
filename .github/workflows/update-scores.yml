@@ -1,0 +1,59 @@
+name: Update PGA Championship scores
+
+on:
+  # Manual trigger from the Actions tab
+  workflow_dispatch:
+
+  # Every 15 minutes for the entire month of May so the field is fresh
+  # for the picker before the tournament and scores update during play.
+  # GitHub Actions cron is best-effort and may be delayed several minutes
+  # under load — that's fine for a fantasy pool.
+  schedule:
+    - cron: "*/15 * * 5 *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-scores
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch scores from ESPN
+        run: python scripts/fetch_scores.py
+
+      - name: Commit updated scores
+        run: |
+          git config user.name "pga-pool-bot"
+          git config user.email "pga-pool-bot@users.noreply.github.com"
+          if git diff --quiet -- data/scores.json; then
+            echo "No score changes."
+            exit 0
+          fi
+          git add data/scores.json
+          git commit -m "chore: update scores $(date -u +'%Y-%m-%d %H:%MZ')"
+          # Race with poll-form.yml: it touches data/entries.json, we touch
+          # data/scores.json, so a rebase is guaranteed conflict-free. Retry
+          # a few times in case another commit lands while we're rebasing.
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git rebase origin/main
+            if git push; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push attempt $attempt failed, retrying..."
+            sleep 3
+          done
+          echo "Exhausted push retries."
+          exit 1

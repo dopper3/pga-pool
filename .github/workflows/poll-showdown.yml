@@ -1,0 +1,86 @@
+name: Poll Sunday Showdown form
+
+on:
+  workflow_dispatch:
+
+  # Tight cron during showdown submission window: every 2 minutes from
+  # Saturday May 16 22:00 UTC through Sunday May 17 14:58 UTC (cutoff is
+  # 14:30 UTC; the buffer past it catches any last-minute submissions).
+  # This is a much narrower window than poll-form.yml because Sunday picks
+  # come in late and we want them visible on the leaderboard quickly.
+  # GitHub Actions cron is best-effort and may be delayed several minutes
+  # under load.
+  schedule:
+    - cron: "*/2 22-23 16 5 *"
+    - cron: "*/2 0-14 17 5 *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: poll-showdown
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Skip if SHOWDOWN_FORM_CSV_URL is not set
+        id: gate
+        env:
+          SHOWDOWN_FORM_CSV_URL: ${{ vars.SHOWDOWN_FORM_CSV_URL }}
+        run: |
+          if [ -z "$SHOWDOWN_FORM_CSV_URL" ]; then
+            echo "SHOWDOWN_FORM_CSV_URL repo variable is not set — showdown ingestion not configured."
+            echo "configured=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "configured=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Set up Python
+        if: steps.gate.outputs.configured == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Ensure scores.json exists (so picks can be validated against the field)
+        if: steps.gate.outputs.configured == 'true'
+        run: |
+          if [ ! -f data/scores.json ] || [ ! -s data/scores.json ]; then
+            python scripts/fetch_scores.py
+          fi
+
+      - name: Poll showdown form
+        if: steps.gate.outputs.configured == 'true'
+        env:
+          SHOWDOWN_FORM_CSV_URL: ${{ vars.SHOWDOWN_FORM_CSV_URL }}
+        run: python scripts/poll_showdown.py
+
+      - name: Commit updated showdown entries
+        if: steps.gate.outputs.configured == 'true'
+        run: |
+          git config user.name "pga-pool-bot"
+          git config user.email "pga-pool-bot@users.noreply.github.com"
+          if git diff --quiet -- data/showdown.json; then
+            echo "No showdown changes."
+            exit 0
+          fi
+          git add data/showdown.json
+          git commit -m "showdown: sync entries $(date -u +'%Y-%m-%d %H:%MZ')"
+          # Race with update-scores.yml and poll-form.yml: each touches a
+          # different file, so a rebase is guaranteed conflict-free. Retry a
+          # few times in case another commit lands while we're rebasing.
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git rebase origin/main
+            if git push; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push attempt $attempt failed, retrying..."
+            sleep 3
+          done
+          echo "Exhausted push retries."
+          exit 1

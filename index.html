@@ -1,0 +1,237 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--
+      Auto-refresh is implemented in app.js (startAutoRefresh): every minute,
+      reload the page only if the user is currently looking at the Pool
+      standings tab. Other tabs (Make picks / Sunday Showdown) preserve in-
+      flight picker state instead of getting nuked by a full reload.
+    -->
+    <title>Nettzone PGA Championship Pool</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="assets/style.css?v=24" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap header-inner">
+        <div class="header-left">
+          <svg
+            class="flagmark"
+            viewBox="0 0 46 60"
+            xmlns="http://www.w3.org/2000/svg"
+            aria-hidden="true"
+          >
+            <!-- flagstick -->
+            <line
+              x1="9"
+              y1="4"
+              x2="9"
+              y2="56"
+              stroke="#fed925"
+              stroke-width="2"
+              stroke-linecap="round"
+            />
+            <!-- pennant -->
+            <path
+              d="M9 6 L40 12 L9 20 Z"
+              fill="#fed925"
+              stroke="#fed925"
+              stroke-width="1"
+              stroke-linejoin="round"
+            />
+            <!-- ground line -->
+            <line
+              x1="3"
+              y1="56"
+              x2="36"
+              y2="56"
+              stroke="#fed925"
+              stroke-width="1.5"
+              stroke-linecap="round"
+              opacity="0.6"
+            />
+          </svg>
+          <div>
+            <h1>Nettzone PGA Championship Pool</h1>
+            <p id="tournament-status" class="status">Loading…</p>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <nav class="tabs wrap">
+      <button class="tab active" data-tab="pool">Pool standings</button>
+      <button class="tab" data-tab="pick" hidden>Make picks</button>
+      <button class="tab" data-tab="showdown">Sunday Showdown</button>
+      <button class="tab" data-tab="showdown-pick">Make Showdown picks</button>
+      <button class="tab" data-tab="results">Results</button>
+      <button class="tab" data-tab="leaderboard">Tournament leaderboard</button>
+      <button class="tab" data-tab="field" hidden>The field</button>
+      <button class="tab" data-tab="rules" hidden>Rules &amp; how to enter</button>
+    </nav>
+
+    <main class="wrap">
+      <p id="error" class="error" hidden></p>
+
+      <section id="tab-pool" class="tab-panel active">
+        <p id="pool-hint" class="hint">
+          Lowest combined to-par for your <strong>best 4 of 6</strong> picks.
+          Picks shaded in green are the four currently counting toward your team
+          total; greyed picks are dropped.
+          <span class="fee-tag">$20 entry</span>
+        </p>
+        <div id="pool-standings"></div>
+        <div id="pending-fixes"></div>
+      </section>
+
+      <section id="tab-pick" class="tab-panel">
+        <p class="hint">
+          Enter your name, check exactly <strong>6 golfers</strong>, hit
+          <strong>Submit picks</strong>. The Google Form opens in a new tab
+          pre-filled — click Submit on the form to finalize.
+        </p>
+
+        <div class="picker-form">
+          <label class="picker-label" for="picker-name"
+            >Your display name</label
+          >
+          <input
+            id="picker-name"
+            type="text"
+            placeholder="e.g. Pat M."
+            autocomplete="off"
+            maxlength="40"
+          />
+        </div>
+
+        <div class="picker-bar">
+          <span id="picker-count" class="picker-count">0 / 6 picked</span>
+          <button id="picker-submit" class="picker-submit" type="button">
+            Submit picks
+          </button>
+        </div>
+
+        <p id="picker-status" class="picker-status"></p>
+
+        <input
+          id="picker-search"
+          type="search"
+          placeholder="Search the field…"
+          autocomplete="off"
+        />
+
+        <div id="picker-field" class="picker-field">
+          <p class="picker-loading">Loading the field…</p>
+        </div>
+
+        <p class="picker-fallback">
+          Picker not working?
+          <a
+            href="https://docs.google.com/forms/d/e/REPLACE_WITH_PGA_MAIN_FORM_ID/viewform"
+            target="_blank"
+            rel="noopener"
+            >Use the Google Form directly</a
+          >
+          and type your picks by hand.
+        </p>
+      </section>
+
+      <section id="tab-showdown" class="tab-panel">
+        <div id="showdown-content"></div>
+      </section>
+
+      <section id="tab-showdown-pick" class="tab-panel">
+        <div id="showdown-picker"></div>
+      </section>
+
+      <section id="tab-results" class="tab-panel">
+        <div id="results"></div>
+      </section>
+
+      <section id="tab-leaderboard" class="tab-panel">
+        <div id="leaderboard"></div>
+      </section>
+
+      <section id="tab-field" class="tab-panel">
+        <input
+          id="field-search"
+          type="search"
+          placeholder="Search the field…"
+          autocomplete="off"
+        />
+        <div id="field-list"></div>
+      </section>
+
+      <section id="tab-rules" class="tab-panel">
+        <h2>Rules</h2>
+        <ul>
+          <li>Pick <strong>6 golfers</strong> from the PGA Championship field.</li>
+          <li>
+            After each round, your team score is the sum of your
+            <strong>best 4</strong> picks' scores to par. Your two worst picks
+            are dropped each round (and they can change round to round).
+          </li>
+          <li>Lowest team total after Sunday wins.</li>
+          <li>
+            A golfer who is cut keeps their 36-hole to-par total — that score
+            still counts if it's one of your best 4.
+          </li>
+          <li>
+            A golfer who is WD/DQ takes their last reported to-par
+            <strong>plus a 10-stroke penalty</strong>.
+          </li>
+          <li>
+            <strong>Submission deadline:</strong> 10:00 AM Eastern on Thursday
+            May 14, 2026. Resubmit any time before that with the same display
+            name and your new picks replace the old ones.
+          </li>
+        </ul>
+
+        <h2>How to enter</h2>
+        <ol>
+          <li>
+            Click the <strong>Submit Your Entry</strong> button in the header
+            (or the <a href="#" data-jump="pick">Make picks</a> tab).
+          </li>
+          <li>
+            Type your display name, then click 6 golfers from the list. The
+            order you click them in is the order they'll be recorded as Pick
+            1–6.
+          </li>
+          <li>
+            Hit <strong>Submit picks</strong>. A Google Form opens in a new
+            tab with your name and picks already filled in — click
+            <strong>Submit</strong> on that form to finalize.
+          </li>
+          <li>
+            Your entry shows up on the Pool standings within ~5 minutes — the
+            site polls the form automatically.
+          </li>
+          <li>
+            Want to change your picks? Just go through the picker again with
+            the <strong>same display name</strong>. The latest submission
+            replaces the old one.
+          </li>
+        </ol>
+      </section>
+    </main>
+
+    <footer class="site-footer wrap">
+      <p>
+        Scores update automatically every ~15 minutes via GitHub Actions.
+        Source on
+        <a id="repo-link" href="#" target="_blank" rel="noopener">GitHub</a>.
+      </p>
+      <p id="last-updated"></p>
+    </footer>
+
+    <script src="assets/app.js?v=24"></script>
+  </body>
+</html>

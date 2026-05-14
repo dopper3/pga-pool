@@ -1,0 +1,15 @@
+{
+  "tournament": {
+    "id": null,
+    "name": "PGA Championship",
+    "startDate": "2026-05-14T00:00Z",
+    "endDate": "2026-05-17T23:59Z",
+    "currentRound": 0,
+    "status": "pre",
+    "statusDescription": "Scheduled",
+    "cutScore": null,
+    "cutCount": null,
+    "lastUpdated": null
+  },
+  "players": []
+}
