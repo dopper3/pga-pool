@@ -154,6 +154,37 @@
           "name": "Scottie Scheffler"
         }
       ]
+    },
+    {
+      "source": "form",
+      "displayName": "The coworker’s coworker",
+      "submittedAt": "2026-05-14T08:14:08+00:00",
+      "picks": [
+        {
+          "id": "10046",
+          "name": "Bryson DeChambeau"
+        },
+        {
+          "id": "9478",
+          "name": "Scottie Scheffler"
+        },
+        {
+          "id": "10140",
+          "name": "Xander Schauffele"
+        },
+        {
+          "id": "9037",
+          "name": "Matt Fitzpatrick"
+        },
+        {
+          "id": "4425906",
+          "name": "Cameron Young"
+        },
+        {
+          "id": "3470",
+          "name": "Rory McIlroy"
+        }
+      ]
     }
   ],
   "rejected": []
