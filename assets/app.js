@@ -42,7 +42,7 @@ const SUBMISSION_CUTOFF = new Date("2026-05-14T14:00:00Z");
 //   3. Boom Holes:    one golfer's combined strokes-to-par on a fixed set
 //                     of "boom" holes (the back-nine drama holes).
 const PICK3_REQUIRED = 3;
-const BOOM_HOLES = [12, 13, 15, 16, 18];
+const BOOM_HOLES = [11, 14, 16, 17, 18];
 const SHOWDOWN_PENALTY_WD = 10;
 
 // Real names for the settlement/transfer section. Each team name (display name)
