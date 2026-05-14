@@ -20,7 +20,9 @@
 #   Get-Content $env:TEMP\pga-pool-auto-poll.log -Tail 20
 
 $taskName = "pga-pool-auto-poll"
-$scriptPath = (Resolve-Path (Join-Path $PSScriptRoot "auto-poll.ps1")).Path
+# Launch via the .vbs wrapper so wscript.exe runs the script with no console
+# window allocated (otherwise powershell.exe flashes a black box every fire).
+$vbsPath = (Resolve-Path (Join-Path $PSScriptRoot "auto-poll-silent.vbs")).Path
 
 # End the repetition at Sun May 17, 2026 23:59 UTC.
 $endUtc = [DateTime]::SpecifyKind([DateTime]::Parse("2026-05-17T23:59:00"), [DateTimeKind]::Utc)
@@ -32,8 +34,8 @@ if ($duration -le [TimeSpan]::Zero) {
 }
 
 $action = New-ScheduledTaskAction `
-  -Execute "powershell.exe" `
-  -Argument "-NoProfile -ExecutionPolicy Bypass -WindowStyle Hidden -File `"$scriptPath`""
+  -Execute "wscript.exe" `
+  -Argument "`"$vbsPath`""
 
 $trigger = New-ScheduledTaskTrigger `
   -Once -At $now `
