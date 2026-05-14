@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 0,
     "cutCount": 0,
-    "lastUpdated": "2026-05-14T18:36:09.154965+00:00"
+    "lastUpdated": "2026-05-14T18:38:07.707881+00:00"
   },
   "players": [
     {
@@ -1236,7 +1236,7 @@
       "position": "T14",
       "scoreToPar": -1.0,
       "scoreDisplay": "-1",
-      "thru": 8,
+      "thru": 9,
       "teeTime": "2026-05-14T16:10Z",
       "status": "active",
       "rounds": [
@@ -1350,7 +1350,7 @@
       "position": "T14",
       "scoreToPar": -1.0,
       "scoreDisplay": "-1",
-      "thru": 3,
+      "thru": 4,
       "teeTime": "2026-05-14T17:27Z",
       "status": "active",
       "rounds": [
@@ -1768,7 +1768,7 @@
       "position": "T38",
       "scoreToPar": 0.0,
       "scoreDisplay": "E",
-      "thru": 3,
+      "thru": 4,
       "teeTime": "2026-05-14T17:27Z",
       "status": "active",
       "rounds": [
@@ -3174,7 +3174,7 @@
       "position": "T68",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
-      "thru": 8,
+      "thru": 9,
       "teeTime": "2026-05-14T16:10Z",
       "status": "active",
       "rounds": [
@@ -5257,44 +5257,6 @@
       ]
     },
     {
-      "id": "4845304",
-      "name": "Mark Geddes",
-      "shortName": "M. Geddes",
-      "country": "England",
-      "position": "T131",
-      "scoreToPar": 5.0,
-      "scoreDisplay": "+5",
-      "thru": 7,
-      "teeTime": "2026-05-14T16:21Z",
-      "status": "active",
-      "rounds": [
-        5,
-        null,
-        null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "5350615",
       "name": "Paul McClure",
       "shortName": "P. McClure",
@@ -5599,11 +5561,49 @@
       ]
     },
     {
+      "id": "4845304",
+      "name": "Mark Geddes",
+      "shortName": "M. Geddes",
+      "country": "England",
+      "position": "T138",
+      "scoreToPar": 6.0,
+      "scoreDisplay": "+6",
+      "thru": 8,
+      "teeTime": "2026-05-14T16:21Z",
+      "status": "active",
+      "rounds": [
+        6,
+        null,
+        null,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "11383",
       "name": "Max McGreevy",
       "shortName": "M. McGreevy",
       "country": "USA",
-      "position": "T139",
+      "position": "T138",
       "scoreToPar": 6.0,
       "scoreDisplay": "+6",
       "thru": 18,
