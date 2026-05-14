@@ -185,6 +185,37 @@
           "name": "Rory McIlroy"
         }
       ]
+    },
+    {
+      "source": "form",
+      "displayName": "Cleo",
+      "submittedAt": "2026-05-14T09:45:35+00:00",
+      "picks": [
+        {
+          "id": "3470",
+          "name": "Rory McIlroy"
+        },
+        {
+          "id": "9478",
+          "name": "Scottie Scheffler"
+        },
+        {
+          "id": "6937",
+          "name": "Stephan Jaeger"
+        },
+        {
+          "id": "4425906",
+          "name": "Cameron Young"
+        },
+        {
+          "id": "9780",
+          "name": "Jon Rahm"
+        },
+        {
+          "id": "5539",
+          "name": "Tommy Fleetwood"
+        }
+      ]
     }
   ],
   "rejected": []
