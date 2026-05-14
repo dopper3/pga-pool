@@ -19,15 +19,15 @@ const BEST_OF = 4;
 // the entry IDs below with the ones from that URL. The picker auto-hides
 // itself until the base URL no longer contains "REPLACE_".
 const FORM_PREFILL = {
-  base: "https://docs.google.com/forms/d/e/REPLACE_WITH_PGA_MAIN_FORM_ID/viewform",
-  displayName: "entry.REPLACE_DISPLAY_NAME",
+  base: "https://docs.google.com/forms/d/e/1FAIpQLSceym3M3uOnX8MKE48Ak1OZlJ6vqQYkp1uxY20jV_pVGNxGPQ/viewform",
+  displayName: "entry.825396781",
   picks: [
-    "entry.REPLACE_PICK_1",
-    "entry.REPLACE_PICK_2",
-    "entry.REPLACE_PICK_3",
-    "entry.REPLACE_PICK_4",
-    "entry.REPLACE_PICK_5",
-    "entry.REPLACE_PICK_6",
+    "entry.1008757096",
+    "entry.1795423966",
+    "entry.883359471",
+    "entry.1537260538",
+    "entry.712746174",
+    "entry.1931449524",
   ],
 };
 
