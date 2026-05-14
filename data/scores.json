@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 0,
     "cutCount": 0,
-    "lastUpdated": "2026-05-14T20:52:03.186396+00:00"
+    "lastUpdated": "2026-05-14T20:52:51.092734+00:00"
   },
   "players": [
     {
@@ -1882,7 +1882,7 @@
       "position": "T38",
       "scoreToPar": 0.0,
       "scoreDisplay": "E",
-      "thru": 14,
+      "thru": 15,
       "teeTime": "2026-05-14T16:43Z",
       "status": "active",
       "rounds": [
@@ -5447,44 +5447,6 @@
       ]
     },
     {
-      "id": "4425904",
-      "name": "Michael Thorbjornsen",
-      "shortName": "M. Thorbjornsen",
-      "country": "USA",
-      "position": "T139",
-      "scoreToPar": 6.0,
-      "scoreDisplay": "+6",
-      "thru": 14,
-      "teeTime": "2026-05-14T16:37Z",
-      "status": "active",
-      "rounds": [
-        6,
-        null,
-        null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "4408316",
       "name": "Nico Echavarria",
       "shortName": "N. Echavarria",
@@ -5527,7 +5489,7 @@
       "name": "Chris Gabriele",
       "shortName": "C. Gabriele",
       "country": "USA",
-      "position": "T146",
+      "position": "T145",
       "scoreToPar": 7.0,
       "scoreDisplay": "+7",
       "thru": 18,
@@ -5565,7 +5527,7 @@
       "name": "Matt McCarty",
       "shortName": "M. McCarty",
       "country": "USA",
-      "position": "T146",
+      "position": "T145",
       "scoreToPar": 7.0,
       "scoreDisplay": "+7",
       "thru": 18,
@@ -5599,11 +5561,49 @@
       ]
     },
     {
+      "id": "4425904",
+      "name": "Michael Thorbjornsen",
+      "shortName": "M. Thorbjornsen",
+      "country": "USA",
+      "position": "T145",
+      "scoreToPar": 7.0,
+      "scoreDisplay": "+7",
+      "thru": 15,
+      "teeTime": "2026-05-14T16:37Z",
+      "status": "active",
+      "rounds": [
+        7,
+        null,
+        null,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "3284",
       "name": "Ryan Vermeer",
       "shortName": "R. Vermeer",
       "country": "USA",
-      "position": "T146",
+      "position": "T145",
       "scoreToPar": 7.0,
       "scoreDisplay": "+7",
       "thru": 18,
@@ -5641,7 +5641,7 @@
       "name": "Shaun Micheel",
       "shortName": "S. Micheel",
       "country": "USA",
-      "position": "T146",
+      "position": "T145",
       "scoreToPar": 7.0,
       "scoreDisplay": "+7",
       "thru": 18,
@@ -5872,7 +5872,7 @@
       "position": "T154",
       "scoreToPar": 10.0,
       "scoreDisplay": "+10",
-      "thru": 15,
+      "thru": 16,
       "teeTime": "2026-05-14T16:21Z",
       "status": "active",
       "rounds": [
