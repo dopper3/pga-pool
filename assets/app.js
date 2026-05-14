@@ -90,6 +90,16 @@ const FEES = {
 // == 15:00 UTC May 17, 2026.
 const SHOWDOWN_CUTOFF = new Date("2026-05-17T15:00:00Z");
 
+// When the Sunday Showdown tabs become visible. Aligned with the showdown
+// poll cron's start window — 6 PM EDT Saturday (after R3 wraps), which is
+// 22:00 UTC May 16. Before this moment, both showdown tabs are hidden so
+// the main pool entry flow isn't cluttered.
+const SHOWDOWN_OPEN = new Date("2026-05-16T22:00:00Z");
+
+function isShowdownWindowOpen() {
+  return Date.now() >= SHOWDOWN_OPEN.getTime();
+}
+
 // Google Form prefill IDs for the Sunday Showdown form. PLACEHOLDERS — to
 // activate the picker, create a Google Form with these short-answer
 // questions in this order:
@@ -2874,15 +2884,24 @@ function loadActiveTab() {
 }
 
 function wireTabs() {
-  // Once the showdown submission window closes, hide the picker tab the same
-  // way the main "Make picks" tab is hidden once the tournament starts. The
-  // standings tab keeps showing results, so nobody needs to land on a closed
-  // picker.
-  if (isShowdownPastCutoff()) {
-    const showdownPickTab = document.querySelector(
-      '.tab[data-tab="showdown-pick"]',
-    );
-    if (showdownPickTab) showdownPickTab.hidden = true;
+  // Time-gated tab visibility:
+  //   - "Make picks" hides once past the main pool submission cutoff.
+  //   - The two showdown tabs ("Sunday Showdown" standings + "Make Showdown
+  //     picks") stay hidden until SHOWDOWN_OPEN (Sat 22:00 UTC, after R3
+  //     wraps), so the main-pool entry flow isn't cluttered earlier in the
+  //     week.
+  //   - "Make Showdown picks" hides again once the showdown cutoff passes.
+  const pickTab = document.querySelector('.tab[data-tab="pick"]');
+  if (pickTab) pickTab.hidden = isPastCutoff();
+
+  const showdownTab = document.querySelector('.tab[data-tab="showdown"]');
+  if (showdownTab) showdownTab.hidden = !isShowdownWindowOpen();
+
+  const showdownPickTab = document.querySelector(
+    '.tab[data-tab="showdown-pick"]',
+  );
+  if (showdownPickTab) {
+    showdownPickTab.hidden = !isShowdownWindowOpen() || isShowdownPastCutoff();
   }
 
   const tabs = document.querySelectorAll(".tab");
