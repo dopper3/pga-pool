@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 0,
     "cutCount": 0,
-    "lastUpdated": "2026-05-14T12:22:02.442326+00:00"
+    "lastUpdated": "2026-05-14T12:24:02.844733+00:00"
   },
   "players": [
     {
@@ -514,7 +514,7 @@
       "position": "T11",
       "scoreToPar": 0.0,
       "scoreDisplay": "E",
-      "thru": 1,
+      "thru": 2,
       "teeTime": "2026-05-14T11:51Z",
       "status": "active",
       "rounds": [
@@ -2110,7 +2110,7 @@
       "position": "T11",
       "scoreToPar": 0.0,
       "scoreDisplay": "E",
-      "thru": 2,
+      "thru": 3,
       "teeTime": "2026-05-14T11:34Z",
       "status": "active",
       "rounds": [
@@ -2338,7 +2338,7 @@
       "position": "T11",
       "scoreToPar": 0.0,
       "scoreDisplay": "E",
-      "thru": 3,
+      "thru": 4,
       "teeTime": "2026-05-14T11:12Z",
       "status": "active",
       "rounds": [
@@ -3592,7 +3592,7 @@
       "position": "T11",
       "scoreToPar": 0.0,
       "scoreDisplay": "E",
-      "thru": 4,
+      "thru": 5,
       "teeTime": "2026-05-14T11:07Z",
       "status": "active",
       "rounds": [
@@ -5340,7 +5340,7 @@
       "position": "T26",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
-      "thru": 3,
+      "thru": 4,
       "teeTime": "2026-05-14T11:18Z",
       "status": "active",
       "rounds": [
@@ -5561,44 +5561,6 @@
       ]
     },
     {
-      "id": "11385",
-      "name": "Rico Hoey",
-      "shortName": "R. Hoey",
-      "country": "Philippines",
-      "position": "T26",
-      "scoreToPar": 1.0,
-      "scoreDisplay": "+1",
-      "thru": 4,
-      "teeTime": "2026-05-14T11:07Z",
-      "status": "active",
-      "rounds": [
-        1,
-        null,
-        null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "307",
       "name": "Shaun Micheel",
       "shortName": "S. Micheel",
@@ -5641,7 +5603,7 @@
       "name": "Braden Shattuck",
       "shortName": "B. Shattuck",
       "country": "USA",
-      "position": "T38",
+      "position": "T37",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
       "thru": 6,
@@ -5679,10 +5641,10 @@
       "name": "Bryce Fisher",
       "shortName": "B. Fisher",
       "country": "USA",
-      "position": "T38",
+      "position": "T37",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
-      "thru": 3,
+      "thru": 4,
       "teeTime": "2026-05-14T11:12Z",
       "status": "active",
       "rounds": [
@@ -5717,7 +5679,7 @@
       "name": "Ian Holt",
       "shortName": "I. Holt",
       "country": "USA",
-      "position": "T38",
+      "position": "T37",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
       "thru": 3,
@@ -5751,11 +5713,49 @@
       ]
     },
     {
+      "id": "11385",
+      "name": "Rico Hoey",
+      "shortName": "R. Hoey",
+      "country": "Philippines",
+      "position": "T37",
+      "scoreToPar": 2.0,
+      "scoreDisplay": "+2",
+      "thru": 5,
+      "teeTime": "2026-05-14T11:07Z",
+      "status": "active",
+      "rounds": [
+        2,
+        null,
+        null,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "9658",
       "name": "Taylor Pendrith",
       "shortName": "T. Pendrith",
       "country": "Canada",
-      "position": "T38",
+      "position": "T37",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
       "thru": 5,
@@ -5793,7 +5793,7 @@
       "name": "Wyndham Clark",
       "shortName": "W. Clark",
       "country": "USA",
-      "position": "T38",
+      "position": "T37",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
       "thru": 2,
