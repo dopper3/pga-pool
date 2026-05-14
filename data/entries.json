@@ -92,6 +92,68 @@
           "name": "Scottie Scheffler"
         }
       ]
+    },
+    {
+      "source": "form",
+      "displayName": "Piss Missile",
+      "submittedAt": "2026-05-14T07:09:59+00:00",
+      "picks": [
+        {
+          "id": "9478",
+          "name": "Scottie Scheffler"
+        },
+        {
+          "id": "3470",
+          "name": "Rory McIlroy"
+        },
+        {
+          "id": "4375972",
+          "name": "Ludvig Åberg"
+        },
+        {
+          "id": "5467",
+          "name": "Jordan Spieth"
+        },
+        {
+          "id": "10592",
+          "name": "Collin Morikawa"
+        },
+        {
+          "id": "6007",
+          "name": "Patrick Cantlay"
+        }
+      ]
+    },
+    {
+      "source": "form",
+      "displayName": "The coworker",
+      "submittedAt": "2026-05-14T07:50:46+00:00",
+      "picks": [
+        {
+          "id": "4425906",
+          "name": "Cameron Young"
+        },
+        {
+          "id": "4690755",
+          "name": "Chris Gotterup"
+        },
+        {
+          "id": "569",
+          "name": "Justin Rose"
+        },
+        {
+          "id": "9037",
+          "name": "Matt Fitzpatrick"
+        },
+        {
+          "id": "3470",
+          "name": "Rory McIlroy"
+        },
+        {
+          "id": "9478",
+          "name": "Scottie Scheffler"
+        }
+      ]
     }
   ],
   "rejected": []
