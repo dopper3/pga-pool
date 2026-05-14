@@ -147,10 +147,10 @@ function formatShowdownCutoffLocal() {
 // Course par per hole. Used as a fallback when no rounds have been played
 // yet (so we can still draw the par row in the scorecard modal), and as the
 // authoritative par source for Boom Holes scoring before any R4 holes have
-// been posted. Aronimink plays as par 70 for the 2026 PGA Championship —
-// values below are a placeholder par-70 layout; verify against the official
-// scorecard if Boom Holes scoring matters pre-round-4.
-const COURSE_PAR = [4, 4, 4, 5, 3, 4, 3, 4, 4, 4, 3, 4, 4, 4, 4, 5, 3, 4];
+// been posted. Aronimink plays as par 70 for the 2026 PGA Championship.
+// Front 9 (35): par-3 at 3 (long, ~250y), par-5 at 7. Back 9 (35): par-5 at 11,
+// par-3 at 13, original par-5 16th plays as par 4, long par-3 17th.
+const COURSE_PAR = [4, 4, 3, 4, 4, 4, 5, 3, 4, 4, 5, 4, 3, 4, 4, 4, 3, 4];
 
 // ESPN core API exposes per-competitor hole-by-hole linescores. CORS-open.
 const SCORECARD_URL = (eventId, athleteId) =>
