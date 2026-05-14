@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 0,
     "cutCount": 0,
-    "lastUpdated": "2026-05-14T20:10:04.027002+00:00"
+    "lastUpdated": "2026-05-14T20:12:09.792560+00:00"
   },
   "players": [
     {
@@ -507,6 +507,44 @@
       ]
     },
     {
+      "id": "10906",
+      "name": "Aaron Rai",
+      "shortName": "A. Rai",
+      "country": "England",
+      "position": "T14",
+      "scoreToPar": -1.0,
+      "scoreDisplay": "-1",
+      "thru": 7,
+      "teeTime": "2026-05-14T18:00Z",
+      "status": "active",
+      "rounds": [
+        -1,
+        null,
+        null,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "11332",
       "name": "Andrew Novak",
       "shortName": "A. Novak",
@@ -783,44 +821,6 @@
       "thru": 18,
       "teeTime": "2026-05-14T11:18Z",
       "status": "final",
-      "rounds": [
-        -1,
-        null,
-        null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
-      "id": "10505",
-      "name": "J.T. Poston",
-      "shortName": "J.T. Poston",
-      "country": "USA",
-      "position": "T14",
-      "scoreToPar": -1.0,
-      "scoreDisplay": "-1",
-      "thru": 9,
-      "teeTime": "2026-05-14T17:10Z",
-      "status": "active",
       "rounds": [
         -1,
         null,
@@ -1343,18 +1343,18 @@
       ]
     },
     {
-      "id": "10906",
-      "name": "Aaron Rai",
-      "shortName": "A. Rai",
-      "country": "England",
-      "position": "T37",
-      "scoreToPar": 0.0,
-      "scoreDisplay": "E",
-      "thru": 6,
-      "teeTime": "2026-05-14T18:00Z",
+      "id": "4587",
+      "name": "Shane Lowry",
+      "shortName": "S. Lowry",
+      "country": "Ireland",
+      "position": "T14",
+      "scoreToPar": -1.0,
+      "scoreDisplay": "-1",
+      "thru": 9,
+      "teeTime": "2026-05-14T17:32Z",
       "status": "active",
       "rounds": [
-        0,
+        -1,
         null,
         null,
         null
@@ -1502,8 +1502,46 @@
       "position": "T37",
       "scoreToPar": 0.0,
       "scoreDisplay": "E",
-      "thru": 10,
+      "thru": 11,
       "teeTime": "2026-05-14T17:05Z",
+      "status": "active",
+      "rounds": [
+        0,
+        null,
+        null,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "10505",
+      "name": "J.T. Poston",
+      "shortName": "J.T. Poston",
+      "country": "USA",
+      "position": "T37",
+      "scoreToPar": 0.0,
+      "scoreDisplay": "E",
+      "thru": 10,
+      "teeTime": "2026-05-14T17:10Z",
       "status": "active",
       "rounds": [
         0,
@@ -1730,7 +1768,7 @@
       "position": "T37",
       "scoreToPar": 0.0,
       "scoreDisplay": "E",
-      "thru": 9,
+      "thru": 10,
       "teeTime": "2026-05-14T17:16Z",
       "status": "active",
       "rounds": [
@@ -2718,7 +2756,7 @@
       "position": "T54",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
-      "thru": 7,
+      "thru": 8,
       "teeTime": "2026-05-14T17:49Z",
       "status": "active",
       "rounds": [
@@ -2908,7 +2946,7 @@
       "position": "T54",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
-      "thru": 9,
+      "thru": 10,
       "teeTime": "2026-05-14T17:10Z",
       "status": "active",
       "rounds": [
@@ -2948,44 +2986,6 @@
       "scoreDisplay": "+1",
       "thru": 7,
       "teeTime": "2026-05-14T17:49Z",
-      "status": "active",
-      "rounds": [
-        1,
-        null,
-        null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
-      "id": "4587",
-      "name": "Shane Lowry",
-      "shortName": "S. Lowry",
-      "country": "Ireland",
-      "position": "T14",
-      "scoreToPar": 1.0,
-      "scoreDisplay": "+1",
-      "thru": 8,
-      "teeTime": "2026-05-14T17:32Z",
       "status": "active",
       "rounds": [
         1,
