@@ -28,7 +28,7 @@ $endLocal = $endUtc.ToLocalTime()
 $now = Get-Date
 $duration = $endLocal - $now
 if ($duration -le [TimeSpan]::Zero) {
-  throw "End time $endLocal is already in the past — nothing to schedule."
+  throw "End time $endLocal is already in the past - nothing to schedule."
 }
 
 $action = New-ScheduledTaskAction `
