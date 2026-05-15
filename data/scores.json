@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 4,
     "cutCount": 83,
-    "lastUpdated": "2026-05-15T23:42:01.305893+00:00"
+    "lastUpdated": "2026-05-15T23:44:03.116187+00:00"
   },
   "players": [
     {
@@ -1426,7 +1426,7 @@
       "position": "T30",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
-      "thru": 16,
+      "thru": 17,
       "teeTime": "2026-05-15T18:27Z",
       "status": "active",
       "rounds": [
@@ -2604,7 +2604,7 @@
       "position": "T68",
       "scoreToPar": 4.0,
       "scoreDisplay": "+4",
-      "thru": 16,
+      "thru": 17,
       "teeTime": "2026-05-15T18:27Z",
       "status": "active",
       "rounds": [
@@ -4877,44 +4877,6 @@
       ]
     },
     {
-      "id": "5350615",
-      "name": "Paul McClure",
-      "shortName": "P. McClure",
-      "country": "USA",
-      "position": "T127",
-      "scoreToPar": 9.0,
-      "scoreDisplay": "+9",
-      "thru": 16,
-      "teeTime": "2026-05-15T18:27Z",
-      "status": "active",
-      "rounds": [
-        5,
-        4,
-        null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "1350",
       "name": "Y.E. Yang",
       "shortName": "Y.E. Yang",
@@ -4957,7 +4919,7 @@
       "name": "Jayden Schaper",
       "shortName": "J. Schaper",
       "country": "South Africa",
-      "position": "T131",
+      "position": "T130",
       "scoreToPar": 10.0,
       "scoreDisplay": "+10",
       "thru": 18,
@@ -4995,7 +4957,7 @@
       "name": "Nico Echavarria",
       "shortName": "N. Echavarria",
       "country": "Colombia",
-      "position": "T131",
+      "position": "T130",
       "scoreToPar": 10.0,
       "scoreDisplay": "+10",
       "thru": 18,
@@ -5029,11 +4991,49 @@
       ]
     },
     {
+      "id": "5350615",
+      "name": "Paul McClure",
+      "shortName": "P. McClure",
+      "country": "USA",
+      "position": "T130",
+      "scoreToPar": 10.0,
+      "scoreDisplay": "+10",
+      "thru": 17,
+      "teeTime": "2026-05-15T18:27Z",
+      "status": "active",
+      "rounds": [
+        5,
+        5,
+        null,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "307",
       "name": "Shaun Micheel",
       "shortName": "S. Micheel",
       "country": "USA",
-      "position": "T131",
+      "position": "T130",
       "scoreToPar": 10.0,
       "scoreDisplay": "+10",
       "thru": 18,
@@ -5071,7 +5071,7 @@
       "name": "Sudarshan Yellamaraju",
       "shortName": "S. Yellamaraju",
       "country": "Canada",
-      "position": "T131",
+      "position": "T130",
       "scoreToPar": 10.0,
       "scoreDisplay": "+10",
       "thru": 18,
