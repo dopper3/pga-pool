@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 4,
     "cutCount": 83,
-    "lastUpdated": "2026-05-15T23:14:04.174618+00:00"
+    "lastUpdated": "2026-05-15T23:16:03.205205+00:00"
   },
   "players": [
     {
@@ -704,7 +704,7 @@
       "position": "T16",
       "scoreToPar": -1.0,
       "scoreDisplay": "-1",
-      "thru": 16,
+      "thru": 17,
       "teeTime": "2026-05-15T18:05Z",
       "status": "active",
       "rounds": [
@@ -1464,7 +1464,7 @@
       "position": "T29",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
-      "thru": 16,
+      "thru": 17,
       "teeTime": "2026-05-15T18:05Z",
       "status": "active",
       "rounds": [
@@ -1578,7 +1578,7 @@
       "position": "T29",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
-      "thru": 16,
+      "thru": 17,
       "teeTime": "2026-05-15T18:11Z",
       "status": "active",
       "rounds": [
@@ -4124,9 +4124,9 @@
       "position": "T97",
       "scoreToPar": 6.0,
       "scoreDisplay": "+6",
-      "thru": 17,
+      "thru": 18,
       "teeTime": "2026-05-15T17:54Z",
-      "status": "active",
+      "status": "final",
       "rounds": [
         2,
         4,
@@ -5447,6 +5447,44 @@
       ]
     },
     {
+      "id": "5070304",
+      "name": "Jared Jones",
+      "shortName": "J. Jones",
+      "country": "USA",
+      "position": "T143",
+      "scoreToPar": 14.0,
+      "scoreDisplay": "+14",
+      "thru": 17,
+      "teeTime": "2026-05-15T18:11Z",
+      "status": "active",
+      "rounds": [
+        10,
+        4,
+        null,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "3284",
       "name": "Ryan Vermeer",
       "shortName": "R. Vermeer",
@@ -5527,7 +5565,7 @@
       "name": "Austin Hurt",
       "shortName": "A. Hurt",
       "country": "USA",
-      "position": "T146",
+      "position": "T147",
       "scoreToPar": 15.0,
       "scoreDisplay": "+15",
       "thru": 18,
@@ -5565,7 +5603,7 @@
       "name": "Francisco Bidé",
       "shortName": "F. Bidé",
       "country": "Argentina",
-      "position": "T146",
+      "position": "T147",
       "scoreToPar": 15.0,
       "scoreDisplay": "+15",
       "thru": 18,
@@ -5599,49 +5637,11 @@
       ]
     },
     {
-      "id": "5070304",
-      "name": "Jared Jones",
-      "shortName": "J. Jones",
-      "country": "USA",
-      "position": "T146",
-      "scoreToPar": 15.0,
-      "scoreDisplay": "+15",
-      "thru": 16,
-      "teeTime": "2026-05-15T18:11Z",
-      "status": "active",
-      "rounds": [
-        10,
-        5,
-        null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "9620",
       "name": "Ryan Lenahan",
       "shortName": "R. Lenahan",
       "country": "USA",
-      "position": "T146",
+      "position": "T147",
       "scoreToPar": 15.0,
       "scoreDisplay": "+15",
       "thru": 17,
@@ -5679,7 +5679,7 @@
       "name": "Timothy Wiseman",
       "shortName": "T. Wiseman",
       "country": "USA",
-      "position": "T146",
+      "position": "T147",
       "scoreToPar": 15.0,
       "scoreDisplay": "+15",
       "thru": 18,
