@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 2,
     "cutCount": 80,
-    "lastUpdated": "2026-05-15T15:02:04.153295+00:00"
+    "lastUpdated": "2026-05-15T15:04:03.137060+00:00"
   },
   "players": [
     {
@@ -324,7 +324,7 @@
       "position": "T6",
       "scoreToPar": -2.0,
       "scoreDisplay": "-2",
-      "thru": 9,
+      "thru": 10,
       "teeTime": "2026-05-15T12:02Z",
       "status": "active",
       "rounds": [
@@ -1730,7 +1730,7 @@
       "position": "T41",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
-      "thru": 9,
+      "thru": 10,
       "teeTime": "2026-05-15T11:56Z",
       "status": "active",
       "rounds": [
@@ -3060,7 +3060,7 @@
       "position": "T81",
       "scoreToPar": 3.0,
       "scoreDisplay": "+3",
-      "thru": 6,
+      "thru": 7,
       "teeTime": "2026-05-15T12:57Z",
       "status": "active",
       "rounds": [
@@ -4048,7 +4048,7 @@
       "position": "T96",
       "scoreToPar": 4.0,
       "scoreDisplay": "+4",
-      "thru": 12,
+      "thru": 13,
       "teeTime": "2026-05-15T11:07Z",
       "status": "active",
       "rounds": [
@@ -4725,19 +4725,19 @@
       ]
     },
     {
-      "id": "388",
-      "name": "Adam Scott",
-      "shortName": "A. Scott",
-      "country": "Australia",
+      "id": "10046",
+      "name": "Bryson DeChambeau",
+      "shortName": "B. DeChambeau",
+      "country": "USA",
       "position": "T125",
       "scoreToPar": 6.0,
       "scoreDisplay": "+6",
-      "thru": 9,
-      "teeTime": "2026-05-15T11:56Z",
-      "status": "active",
+      "thru": 0,
+      "teeTime": "2026-05-15T17:43Z",
+      "status": "scheduled",
       "rounds": [
-        2,
-        4,
+        6,
+        null,
         null,
         null
       ],
@@ -4763,19 +4763,19 @@
       ]
     },
     {
-      "id": "10046",
-      "name": "Bryson DeChambeau",
-      "shortName": "B. DeChambeau",
-      "country": "USA",
+      "id": "5882",
+      "name": "Emiliano Grillo",
+      "shortName": "E. Grillo",
+      "country": "Argentina",
       "position": "T125",
       "scoreToPar": 6.0,
       "scoreDisplay": "+6",
-      "thru": 0,
-      "teeTime": "2026-05-15T17:43Z",
-      "status": "scheduled",
+      "thru": 10,
+      "teeTime": "2026-05-15T12:02Z",
+      "status": "active",
       "rounds": [
         6,
-        null,
+        0,
         null,
         null
       ],
@@ -5029,19 +5029,19 @@
       ]
     },
     {
-      "id": "5350613",
-      "name": "Chris Gabriele",
-      "shortName": "C. Gabriele",
-      "country": "USA",
+      "id": "388",
+      "name": "Adam Scott",
+      "shortName": "A. Scott",
+      "country": "Australia",
       "position": "T133",
       "scoreToPar": 7.0,
       "scoreDisplay": "+7",
-      "thru": 0,
-      "teeTime": "2026-05-15T16:26Z",
-      "status": "scheduled",
+      "thru": 10,
+      "teeTime": "2026-05-15T11:56Z",
+      "status": "active",
       "rounds": [
-        7,
-        null,
+        2,
+        5,
         null,
         null
       ],
@@ -5067,19 +5067,19 @@
       ]
     },
     {
-      "id": "5882",
-      "name": "Emiliano Grillo",
-      "shortName": "E. Grillo",
-      "country": "Argentina",
+      "id": "5350613",
+      "name": "Chris Gabriele",
+      "shortName": "C. Gabriele",
+      "country": "USA",
       "position": "T133",
       "scoreToPar": 7.0,
       "scoreDisplay": "+7",
-      "thru": 9,
-      "teeTime": "2026-05-15T12:02Z",
-      "status": "active",
+      "thru": 0,
+      "teeTime": "2026-05-15T16:26Z",
+      "status": "scheduled",
       "rounds": [
-        6,
-        1,
+        7,
+        null,
         null,
         null
       ],
