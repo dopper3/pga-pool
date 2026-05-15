@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 3,
     "cutCount": 75,
-    "lastUpdated": "2026-05-15T19:04:06.989336+00:00"
+    "lastUpdated": "2026-05-15T19:06:03.746016+00:00"
   },
   "players": [
     {
@@ -438,7 +438,7 @@
       "position": "T8",
       "scoreToPar": -2.0,
       "scoreDisplay": "-2",
-      "thru": 2,
+      "thru": 3,
       "teeTime": "2026-05-15T18:11Z",
       "status": "active",
       "rounds": [
@@ -970,7 +970,7 @@
       "position": "T15",
       "scoreToPar": -1.0,
       "scoreDisplay": "-1",
-      "thru": 4,
+      "thru": 5,
       "teeTime": "2026-05-15T17:43Z",
       "status": "active",
       "rounds": [
@@ -1654,7 +1654,7 @@
       "position": "T40",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
-      "thru": 2,
+      "thru": 3,
       "teeTime": "2026-05-15T18:16Z",
       "status": "active",
       "rounds": [
@@ -1730,7 +1730,7 @@
       "position": "T40",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
-      "thru": 4,
+      "thru": 5,
       "teeTime": "2026-05-15T17:43Z",
       "status": "active",
       "rounds": [
@@ -2832,7 +2832,7 @@
       "position": "T66",
       "scoreToPar": 3.0,
       "scoreDisplay": "+3",
-      "thru": 6,
+      "thru": 7,
       "teeTime": "2026-05-15T17:10Z",
       "status": "active",
       "rounds": [
@@ -3212,7 +3212,7 @@
       "position": "T76",
       "scoreToPar": 4.0,
       "scoreDisplay": "+4",
-      "thru": 2,
+      "thru": 3,
       "teeTime": "2026-05-15T18:11Z",
       "status": "active",
       "rounds": [
@@ -5181,49 +5181,11 @@
       ]
     },
     {
-      "id": "3284",
-      "name": "Ryan Vermeer",
-      "shortName": "R. Vermeer",
-      "country": "USA",
-      "position": "T134",
-      "scoreToPar": 9.0,
-      "scoreDisplay": "+9",
-      "thru": 2,
-      "teeTime": "2026-05-15T18:16Z",
-      "status": "active",
-      "rounds": [
-        7,
-        2,
-        null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "4604053",
       "name": "Jayden Schaper",
       "shortName": "J. Schaper",
       "country": "South Africa",
-      "position": "T138",
+      "position": "T137",
       "scoreToPar": 10.0,
       "scoreDisplay": "+10",
       "thru": 18,
@@ -5261,7 +5223,7 @@
       "name": "Nico Echavarria",
       "shortName": "N. Echavarria",
       "country": "Colombia",
-      "position": "T138",
+      "position": "T137",
       "scoreToPar": 10.0,
       "scoreDisplay": "+10",
       "thru": 18,
@@ -5295,11 +5257,49 @@
       ]
     },
     {
+      "id": "3284",
+      "name": "Ryan Vermeer",
+      "shortName": "R. Vermeer",
+      "country": "USA",
+      "position": "T137",
+      "scoreToPar": 10.0,
+      "scoreDisplay": "+10",
+      "thru": 3,
+      "teeTime": "2026-05-15T18:16Z",
+      "status": "active",
+      "rounds": [
+        7,
+        3,
+        null,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "307",
       "name": "Shaun Micheel",
       "shortName": "S. Micheel",
       "country": "USA",
-      "position": "T138",
+      "position": "T137",
       "scoreToPar": 10.0,
       "scoreDisplay": "+10",
       "thru": 7,
@@ -5337,7 +5337,7 @@
       "name": "Sudarshan Yellamaraju",
       "shortName": "S. Yellamaraju",
       "country": "Canada",
-      "position": "T138",
+      "position": "T137",
       "scoreToPar": 10.0,
       "scoreDisplay": "+10",
       "thru": 18,
@@ -5606,7 +5606,7 @@
       "position": "148",
       "scoreToPar": 13.0,
       "scoreDisplay": "+13",
-      "thru": 2,
+      "thru": 3,
       "teeTime": "2026-05-15T18:11Z",
       "status": "active",
       "rounds": [
