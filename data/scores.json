@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 2,
     "cutCount": 91,
-    "lastUpdated": "2026-05-15T12:12:02.307811+00:00"
+    "lastUpdated": "2026-05-15T12:14:05.512361+00:00"
   },
   "players": [
     {
@@ -4162,7 +4162,7 @@
       "position": "T102",
       "scoreToPar": 4.0,
       "scoreDisplay": "+4",
-      "thru": 1,
+      "thru": 2,
       "teeTime": "2026-05-15T11:40Z",
       "status": "active",
       "rounds": [
@@ -5257,44 +5257,6 @@
       ]
     },
     {
-      "id": "5070301",
-      "name": "Austin Hurt",
-      "shortName": "A. Hurt",
-      "country": "USA",
-      "position": "T139",
-      "scoreToPar": 7.0,
-      "scoreDisplay": "+7",
-      "thru": 3,
-      "teeTime": "2026-05-15T11:07Z",
-      "status": "active",
-      "rounds": [
-        9,
-        -2,
-        null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "5350613",
       "name": "Chris Gabriele",
       "shortName": "C. Gabriele",
@@ -5599,11 +5561,49 @@
       ]
     },
     {
+      "id": "5070301",
+      "name": "Austin Hurt",
+      "shortName": "A. Hurt",
+      "country": "USA",
+      "position": "T147",
+      "scoreToPar": 8.0,
+      "scoreDisplay": "+8",
+      "thru": 4,
+      "teeTime": "2026-05-15T11:07Z",
+      "status": "active",
+      "rounds": [
+        9,
+        -1,
+        null,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "5350614",
       "name": "Derek Berg",
       "shortName": "D. Berg",
       "country": "USA",
-      "position": "T148",
+      "position": "T147",
       "scoreToPar": 8.0,
       "scoreDisplay": "+8",
       "thru": 0,
@@ -5641,7 +5641,7 @@
       "name": "Michael Thorbjornsen",
       "shortName": "M. Thorbjornsen",
       "country": "USA",
-      "position": "T148",
+      "position": "T147",
       "scoreToPar": 8.0,
       "scoreDisplay": "+8",
       "thru": 3,
