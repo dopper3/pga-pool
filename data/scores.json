@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 4,
     "cutCount": 84,
-    "lastUpdated": "2026-05-15T20:52:02.695965+00:00"
+    "lastUpdated": "2026-05-15T20:54:03.125284+00:00"
   },
   "players": [
     {
@@ -20,7 +20,7 @@
       "position": "1",
       "scoreToPar": -5.0,
       "scoreDisplay": "-5",
-      "thru": 15,
+      "thru": 16,
       "teeTime": "2026-05-15T16:15Z",
       "status": "active",
       "rounds": [
@@ -780,7 +780,7 @@
       "position": "T15",
       "scoreToPar": -1.0,
       "scoreDisplay": "-1",
-      "thru": 10,
+      "thru": 11,
       "teeTime": "2026-05-15T17:21Z",
       "status": "active",
       "rounds": [
@@ -1008,7 +1008,7 @@
       "position": "T24",
       "scoreToPar": 0.0,
       "scoreDisplay": "E",
-      "thru": 15,
+      "thru": 16,
       "teeTime": "2026-05-15T16:15Z",
       "status": "active",
       "rounds": [
@@ -1198,7 +1198,7 @@
       "position": "T24",
       "scoreToPar": 0.0,
       "scoreDisplay": "E",
-      "thru": 10,
+      "thru": 11,
       "teeTime": "2026-05-15T17:21Z",
       "status": "active",
       "rounds": [
@@ -1806,7 +1806,7 @@
       "position": "T48",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
-      "thru": 11,
+      "thru": 12,
       "teeTime": "2026-05-15T17:10Z",
       "status": "active",
       "rounds": [
@@ -2224,7 +2224,7 @@
       "position": "T48",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
-      "thru": 8,
+      "thru": 9,
       "teeTime": "2026-05-15T18:05Z",
       "status": "active",
       "rounds": [
@@ -2642,7 +2642,7 @@
       "position": "T70",
       "scoreToPar": 4.0,
       "scoreDisplay": "+4",
-      "thru": 16,
+      "thru": 17,
       "teeTime": "2026-05-15T16:10Z",
       "status": "active",
       "rounds": [
@@ -3440,7 +3440,7 @@
       "position": "T85",
       "scoreToPar": 5.0,
       "scoreDisplay": "+5",
-      "thru": 12,
+      "thru": 13,
       "teeTime": "2026-05-15T16:54Z",
       "status": "active",
       "rounds": [
@@ -4276,7 +4276,7 @@
       "position": "T98",
       "scoreToPar": 6.0,
       "scoreDisplay": "+6",
-      "thru": 11,
+      "thru": 12,
       "teeTime": "2026-05-15T17:10Z",
       "status": "active",
       "rounds": [
@@ -4922,7 +4922,7 @@
       "position": "T123",
       "scoreToPar": 8.0,
       "scoreDisplay": "+8",
-      "thru": 12,
+      "thru": 13,
       "teeTime": "2026-05-15T16:54Z",
       "status": "active",
       "rounds": [
@@ -5226,7 +5226,7 @@
       "position": "T137",
       "scoreToPar": 11.0,
       "scoreDisplay": "+11",
-      "thru": 12,
+      "thru": 13,
       "teeTime": "2026-05-15T16:54Z",
       "status": "active",
       "rounds": [
