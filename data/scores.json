@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 4,
     "cutCount": 83,
-    "lastUpdated": "2026-05-15T23:56:01.137421+00:00"
+    "lastUpdated": "2026-05-15T23:58:03.346608+00:00"
   },
   "players": [
     {
@@ -4991,44 +4991,6 @@
       ]
     },
     {
-      "id": "5350615",
-      "name": "Paul McClure",
-      "shortName": "P. McClure",
-      "country": "USA",
-      "position": "T130",
-      "scoreToPar": 10.0,
-      "scoreDisplay": "+10",
-      "thru": 17,
-      "teeTime": "2026-05-15T18:27Z",
-      "status": "active",
-      "rounds": [
-        5,
-        5,
-        null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "307",
       "name": "Shaun Micheel",
       "shortName": "S. Micheel",
@@ -5109,7 +5071,7 @@
       "name": "Davis Riley",
       "shortName": "D. Riley",
       "country": "USA",
-      "position": "T135",
+      "position": "T134",
       "scoreToPar": 11.0,
       "scoreDisplay": "+11",
       "thru": 18,
@@ -5147,7 +5109,7 @@
       "name": "Matt McCarty",
       "shortName": "M. McCarty",
       "country": "USA",
-      "position": "T135",
+      "position": "T134",
       "scoreToPar": 11.0,
       "scoreDisplay": "+11",
       "thru": 18,
@@ -5185,7 +5147,7 @@
       "name": "Michael Thorbjornsen",
       "shortName": "M. Thorbjornsen",
       "country": "USA",
-      "position": "T135",
+      "position": "T134",
       "scoreToPar": 11.0,
       "scoreDisplay": "+11",
       "thru": 18,
@@ -5194,6 +5156,44 @@
       "rounds": [
         7,
         4,
+        null,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "5350615",
+      "name": "Paul McClure",
+      "shortName": "P. McClure",
+      "country": "USA",
+      "position": "T134",
+      "scoreToPar": 11.0,
+      "scoreDisplay": "+11",
+      "thru": 18,
+      "teeTime": "2026-05-15T18:27Z",
+      "status": "final",
+      "rounds": [
+        5,
+        6,
         null,
         null
       ],
