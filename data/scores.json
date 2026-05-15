@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 4,
     "cutCount": 83,
-    "lastUpdated": "2026-05-15T23:44:03.116187+00:00"
+    "lastUpdated": "2026-05-15T23:46:02.342639+00:00"
   },
   "players": [
     {
@@ -5755,15 +5755,15 @@
       "name": "Ryan Vermeer",
       "shortName": "R. Vermeer",
       "country": "USA",
-      "position": "T150",
-      "scoreToPar": 16.0,
-      "scoreDisplay": "+16",
-      "thru": 17,
+      "position": "152",
+      "scoreToPar": 17.0,
+      "scoreDisplay": "+17",
+      "thru": 18,
       "teeTime": "2026-05-15T18:16Z",
-      "status": "active",
+      "status": "final",
       "rounds": [
         7,
-        9,
+        10,
         null,
         null
       ],
