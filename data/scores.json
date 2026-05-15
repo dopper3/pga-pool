@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 2,
     "cutCount": 85,
-    "lastUpdated": "2026-05-15T14:14:02.043570+00:00"
+    "lastUpdated": "2026-05-15T14:16:03.577451+00:00"
   },
   "players": [
     {
@@ -2490,7 +2490,7 @@
       "position": "T62",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
-      "thru": 6,
+      "thru": 7,
       "teeTime": "2026-05-15T12:13Z",
       "status": "active",
       "rounds": [
@@ -2946,7 +2946,7 @@
       "position": "T62",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
-      "thru": 11,
+      "thru": 12,
       "teeTime": "2026-05-15T10:45Z",
       "status": "active",
       "rounds": [
@@ -4466,7 +4466,7 @@
       "position": "T116",
       "scoreToPar": 5.0,
       "scoreDisplay": "+5",
-      "thru": 11,
+      "thru": 12,
       "teeTime": "2026-05-15T11:01Z",
       "status": "active",
       "rounds": [
@@ -5378,7 +5378,7 @@
       "position": "T140",
       "scoreToPar": 8.0,
       "scoreDisplay": "+8",
-      "thru": 4,
+      "thru": 5,
       "teeTime": "2026-05-15T12:46Z",
       "status": "active",
       "rounds": [
@@ -5416,7 +5416,7 @@
       "position": "T140",
       "scoreToPar": 8.0,
       "scoreDisplay": "+8",
-      "thru": 8,
+      "thru": 9,
       "teeTime": "2026-05-15T11:40Z",
       "status": "active",
       "rounds": [
@@ -5641,7 +5641,7 @@
       "name": "Jared Jones",
       "shortName": "J. Jones",
       "country": "USA",
-      "position": "T149",
+      "position": "149",
       "scoreToPar": 10.0,
       "scoreDisplay": "+10",
       "thru": 0,
@@ -5679,7 +5679,7 @@
       "name": "Braden Shattuck",
       "shortName": "B. Shattuck",
       "country": "USA",
-      "position": "T151",
+      "position": "T150",
       "scoreToPar": 11.0,
       "scoreDisplay": "+11",
       "thru": 0,
@@ -5717,7 +5717,7 @@
       "name": "Michael Thorbjornsen",
       "shortName": "M. Thorbjornsen",
       "country": "USA",
-      "position": "T149",
+      "position": "T150",
       "scoreToPar": 11.0,
       "scoreDisplay": "+11",
       "thru": 11,
@@ -5755,7 +5755,7 @@
       "name": "Nico Echavarria",
       "shortName": "N. Echavarria",
       "country": "Colombia",
-      "position": "T151",
+      "position": "T150",
       "scoreToPar": 11.0,
       "scoreDisplay": "+11",
       "thru": 12,
