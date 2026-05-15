@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 2,
     "cutCount": 85,
-    "lastUpdated": "2026-05-15T14:24:03.334353+00:00"
+    "lastUpdated": "2026-05-15T14:26:04.348048+00:00"
   },
   "players": [
     {
@@ -1198,7 +1198,7 @@
       "position": "T26",
       "scoreToPar": 0.0,
       "scoreDisplay": "E",
-      "thru": 10,
+      "thru": 11,
       "teeTime": "2026-05-15T11:23Z",
       "status": "active",
       "rounds": [
@@ -2335,7 +2335,7 @@
       "name": "Si Woo Kim",
       "shortName": "S. Kim",
       "country": "Korea",
-      "position": "T42",
+      "position": "T43",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
       "thru": 0,
@@ -2604,7 +2604,7 @@
       "position": "T63",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
-      "thru": 11,
+      "thru": 12,
       "teeTime": "2026-05-15T10:56Z",
       "status": "active",
       "rounds": [
@@ -3509,6 +3509,44 @@
       ]
     },
     {
+      "id": "4671",
+      "name": "John Parry",
+      "shortName": "J. Parry",
+      "country": "England",
+      "position": "T98",
+      "scoreToPar": 3.0,
+      "scoreDisplay": "+3",
+      "thru": 13,
+      "teeTime": "2026-05-15T10:50Z",
+      "status": "active",
+      "rounds": [
+        3,
+        0,
+        null,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "8906",
       "name": "Keith Mitchell",
       "shortName": "K. Mitchell",
@@ -4003,44 +4041,6 @@
       ]
     },
     {
-      "id": "4671",
-      "name": "John Parry",
-      "shortName": "J. Parry",
-      "country": "England",
-      "position": "T98",
-      "scoreToPar": 4.0,
-      "scoreDisplay": "+4",
-      "thru": 12,
-      "teeTime": "2026-05-15T10:50Z",
-      "status": "active",
-      "rounds": [
-        3,
-        1,
-        null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "4513",
       "name": "Keegan Bradley",
       "shortName": "K. Bradley",
@@ -4390,7 +4390,7 @@
       "position": "T116",
       "scoreToPar": 5.0,
       "scoreDisplay": "+5",
-      "thru": 7,
+      "thru": 8,
       "teeTime": "2026-05-15T11:56Z",
       "status": "active",
       "rounds": [
@@ -5036,7 +5036,7 @@
       "position": "T126",
       "scoreToPar": 6.0,
       "scoreDisplay": "+6",
-      "thru": 6,
+      "thru": 7,
       "teeTime": "2026-05-15T12:07Z",
       "status": "active",
       "rounds": [
@@ -5454,7 +5454,7 @@
       "position": "T140",
       "scoreToPar": 8.0,
       "scoreDisplay": "+8",
-      "thru": 11,
+      "thru": 12,
       "teeTime": "2026-05-15T10:56Z",
       "status": "active",
       "rounds": [
