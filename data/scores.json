@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 2,
     "cutCount": 85,
-    "lastUpdated": "2026-05-15T14:26:04.348048+00:00"
+    "lastUpdated": "2026-05-15T14:28:01.189111+00:00"
   },
   "players": [
     {
@@ -628,7 +628,7 @@
       "position": "T12",
       "scoreToPar": -1.0,
       "scoreDisplay": "-1",
-      "thru": 9,
+      "thru": 10,
       "teeTime": "2026-05-15T11:34Z",
       "status": "active",
       "rounds": [
@@ -1122,7 +1122,7 @@
       "position": "T26",
       "scoreToPar": 0.0,
       "scoreDisplay": "E",
-      "thru": 7,
+      "thru": 8,
       "teeTime": "2026-05-15T11:56Z",
       "status": "active",
       "rounds": [
@@ -1236,7 +1236,7 @@
       "position": "T26",
       "scoreToPar": 0.0,
       "scoreDisplay": "E",
-      "thru": 4,
+      "thru": 5,
       "teeTime": "2026-05-15T12:57Z",
       "status": "active",
       "rounds": [
@@ -1578,7 +1578,7 @@
       "position": "T26",
       "scoreToPar": 0.0,
       "scoreDisplay": "E",
-      "thru": 6,
+      "thru": 7,
       "teeTime": "2026-05-15T12:07Z",
       "status": "active",
       "rounds": [
@@ -1660,44 +1660,6 @@
       "rounds": [
         -1,
         2,
-        null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
-      "id": "11056",
-      "name": "Austin Smotherman",
-      "shortName": "A. Smotherman",
-      "country": "USA",
-      "position": "T43",
-      "scoreToPar": 1.0,
-      "scoreDisplay": "+1",
-      "thru": 4,
-      "teeTime": "2026-05-15T12:57Z",
-      "status": "active",
-      "rounds": [
-        2,
-        -1,
         null,
         null
       ],
@@ -2141,6 +2103,44 @@
       ]
     },
     {
+      "id": "3670",
+      "name": "Martin Kaymer",
+      "shortName": "M. Kaymer",
+      "country": "Germany",
+      "position": "T43",
+      "scoreToPar": 1.0,
+      "scoreDisplay": "+1",
+      "thru": 10,
+      "teeTime": "2026-05-15T11:29Z",
+      "status": "active",
+      "rounds": [
+        -3,
+        4,
+        null,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "9037",
       "name": "Matt Fitzpatrick",
       "shortName": "M. Fitzpatrick",
@@ -2420,6 +2420,44 @@
       "rounds": [
         2,
         null,
+        null,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "11056",
+      "name": "Austin Smotherman",
+      "shortName": "A. Smotherman",
+      "country": "USA",
+      "position": "T63",
+      "scoreToPar": 2.0,
+      "scoreDisplay": "+2",
+      "thru": 5,
+      "teeTime": "2026-05-15T12:57Z",
+      "status": "active",
+      "rounds": [
+        2,
+        0,
         null,
         null
       ],
@@ -2756,7 +2794,7 @@
       "position": "T63",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
-      "thru": 12,
+      "thru": 13,
       "teeTime": "2026-05-15T10:50Z",
       "status": "active",
       "rounds": [
@@ -2838,44 +2876,6 @@
       "rounds": [
         2,
         null,
-        null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
-      "id": "3670",
-      "name": "Martin Kaymer",
-      "shortName": "M. Kaymer",
-      "country": "Germany",
-      "position": "T63",
-      "scoreToPar": 2.0,
-      "scoreDisplay": "+2",
-      "thru": 9,
-      "teeTime": "2026-05-15T11:29Z",
-      "status": "active",
-      "rounds": [
-        -3,
-        5,
         null,
         null
       ],
@@ -3319,44 +3319,6 @@
       ]
     },
     {
-      "id": "9025",
-      "name": "Daniel Berger",
-      "shortName": "D. Berger",
-      "country": "USA",
-      "position": "T86",
-      "scoreToPar": 3.0,
-      "scoreDisplay": "+3",
-      "thru": 7,
-      "teeTime": "2026-05-15T11:56Z",
-      "status": "active",
-      "rounds": [
-        4,
-        -1,
-        null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "3448",
       "name": "Dustin Johnson",
       "shortName": "D. Johnson",
@@ -3513,7 +3475,7 @@
       "name": "John Parry",
       "shortName": "J. Parry",
       "country": "England",
-      "position": "T98",
+      "position": "T86",
       "scoreToPar": 3.0,
       "scoreDisplay": "+3",
       "thru": 13,
@@ -3902,6 +3864,44 @@
       "rounds": [
         2,
         2,
+        null,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "9025",
+      "name": "Daniel Berger",
+      "shortName": "D. Berger",
+      "country": "USA",
+      "position": "T98",
+      "scoreToPar": 4.0,
+      "scoreDisplay": "+4",
+      "thru": 8,
+      "teeTime": "2026-05-15T11:56Z",
+      "status": "active",
+      "rounds": [
+        4,
+        0,
         null,
         null
       ],
@@ -4960,7 +4960,7 @@
       "position": "T126",
       "scoreToPar": 6.0,
       "scoreDisplay": "+6",
-      "thru": 10,
+      "thru": 11,
       "teeTime": "2026-05-15T11:23Z",
       "status": "active",
       "rounds": [
@@ -5409,44 +5409,6 @@
       ]
     },
     {
-      "id": "8973",
-      "name": "Max Homa",
-      "shortName": "M. Homa",
-      "country": "USA",
-      "position": "T140",
-      "scoreToPar": 8.0,
-      "scoreDisplay": "+8",
-      "thru": 9,
-      "teeTime": "2026-05-15T11:34Z",
-      "status": "active",
-      "rounds": [
-        5,
-        3,
-        null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "4426182",
       "name": "Steven Fisk",
       "shortName": "S. Fisk",
@@ -5527,7 +5489,7 @@
       "name": "Bryce Fisher",
       "shortName": "B. Fisher",
       "country": "USA",
-      "position": "T146",
+      "position": "T145",
       "scoreToPar": 9.0,
       "scoreDisplay": "+9",
       "thru": 0,
@@ -5565,7 +5527,7 @@
       "name": "Davis Riley",
       "shortName": "D. Riley",
       "country": "USA",
-      "position": "T146",
+      "position": "T145",
       "scoreToPar": 9.0,
       "scoreDisplay": "+9",
       "thru": 9,
@@ -5599,11 +5561,49 @@
       ]
     },
     {
+      "id": "8973",
+      "name": "Max Homa",
+      "shortName": "M. Homa",
+      "country": "USA",
+      "position": "T145",
+      "scoreToPar": 9.0,
+      "scoreDisplay": "+9",
+      "thru": 10,
+      "teeTime": "2026-05-15T11:34Z",
+      "status": "active",
+      "rounds": [
+        5,
+        4,
+        null,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "4349544",
       "name": "Timothy Wiseman",
       "shortName": "T. Wiseman",
       "country": "USA",
-      "position": "T146",
+      "position": "T145",
       "scoreToPar": 9.0,
       "scoreDisplay": "+9",
       "thru": 4,
@@ -5827,49 +5827,11 @@
       ]
     },
     {
-      "id": "11481",
-      "name": "Jesse Droemer",
-      "shortName": "J. Droemer",
-      "country": "USA",
-      "position": "T154",
-      "scoreToPar": 14.0,
-      "scoreDisplay": "+14",
-      "thru": 10,
-      "teeTime": "2026-05-15T11:23Z",
-      "status": "active",
-      "rounds": [
-        7,
-        7,
-        null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "4693951",
       "name": "Michael Kartrude",
       "shortName": "M. Kartrude",
       "country": "USA",
-      "position": "T154",
+      "position": "154",
       "scoreToPar": 14.0,
       "scoreDisplay": "+14",
       "thru": 10,
@@ -5903,6 +5865,44 @@
       ]
     },
     {
+      "id": "11481",
+      "name": "Jesse Droemer",
+      "shortName": "J. Droemer",
+      "country": "USA",
+      "position": "155",
+      "scoreToPar": 15.0,
+      "scoreDisplay": "+15",
+      "thru": 11,
+      "teeTime": "2026-05-15T11:23Z",
+      "status": "active",
+      "rounds": [
+        7,
+        8,
+        null,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "4845304",
       "name": "Mark Geddes",
       "shortName": "M. Geddes",
@@ -5910,7 +5910,7 @@
       "position": "156",
       "scoreToPar": 19.0,
       "scoreDisplay": "+19",
-      "thru": 11,
+      "thru": 12,
       "teeTime": "2026-05-15T10:56Z",
       "status": "active",
       "rounds": [
