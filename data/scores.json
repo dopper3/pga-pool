@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 2,
     "cutCount": 83,
-    "lastUpdated": "2026-05-15T14:34:03.371926+00:00"
+    "lastUpdated": "2026-05-15T14:36:01.566122+00:00"
   },
   "players": [
     {
@@ -818,7 +818,7 @@
       "position": "T12",
       "scoreToPar": -1.0,
       "scoreDisplay": "-1",
-      "thru": 12,
+      "thru": 13,
       "teeTime": "2026-05-15T11:01Z",
       "status": "active",
       "rounds": [
@@ -1692,7 +1692,7 @@
       "position": "T42",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
-      "thru": 11,
+      "thru": 12,
       "teeTime": "2026-05-15T11:07Z",
       "status": "active",
       "rounds": [
@@ -2192,6 +2192,44 @@
       "rounds": [
         2,
         -1,
+        null,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "11378",
+      "name": "Robert MacIntyre",
+      "shortName": "R. MacIntyre",
+      "country": "Scotland",
+      "position": "T62",
+      "scoreToPar": 1.0,
+      "scoreDisplay": "+1",
+      "thru": 7,
+      "teeTime": "2026-05-15T12:18Z",
+      "status": "active",
+      "rounds": [
+        0,
+        1,
         null,
         null
       ],
@@ -2914,44 +2952,6 @@
       "rounds": [
         2,
         null,
-        null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
-      "id": "11378",
-      "name": "Robert MacIntyre",
-      "shortName": "R. MacIntyre",
-      "country": "Scotland",
-      "position": "T62",
-      "scoreToPar": 2.0,
-      "scoreDisplay": "+2",
-      "thru": 6,
-      "teeTime": "2026-05-15T12:18Z",
-      "status": "active",
-      "rounds": [
-        0,
-        2,
         null,
         null
       ],
@@ -4428,7 +4428,7 @@
       "position": "T113",
       "scoreToPar": 5.0,
       "scoreDisplay": "+5",
-      "thru": 12,
+      "thru": 13,
       "teeTime": "2026-05-15T11:01Z",
       "status": "active",
       "rounds": [
@@ -5713,19 +5713,19 @@
       ]
     },
     {
-      "id": "5145292",
-      "name": "Braden Shattuck",
-      "shortName": "B. Shattuck",
-      "country": "USA",
-      "position": "T151",
-      "scoreToPar": 11.0,
-      "scoreDisplay": "+11",
-      "thru": 0,
-      "teeTime": "2026-05-15T16:10Z",
-      "status": "scheduled",
+      "id": "4408316",
+      "name": "Nico Echavarria",
+      "shortName": "N. Echavarria",
+      "country": "Colombia",
+      "position": "T148",
+      "scoreToPar": 10.0,
+      "scoreDisplay": "+10",
+      "thru": 13,
+      "teeTime": "2026-05-15T11:01Z",
+      "status": "active",
       "rounds": [
-        11,
-        null,
+        5,
+        5,
         null,
         null
       ],
@@ -5751,19 +5751,19 @@
       ]
     },
     {
-      "id": "4408316",
-      "name": "Nico Echavarria",
-      "shortName": "N. Echavarria",
-      "country": "Colombia",
-      "position": "T151",
+      "id": "5145292",
+      "name": "Braden Shattuck",
+      "shortName": "B. Shattuck",
+      "country": "USA",
+      "position": "152",
       "scoreToPar": 11.0,
       "scoreDisplay": "+11",
-      "thru": 12,
-      "teeTime": "2026-05-15T11:01Z",
-      "status": "active",
+      "thru": 0,
+      "teeTime": "2026-05-15T16:10Z",
+      "status": "scheduled",
       "rounds": [
-        5,
-        6,
+        11,
+        null,
         null,
         null
       ],
