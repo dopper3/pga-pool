@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 4,
     "cutCount": 82,
-    "lastUpdated": "2026-05-16T19:40:03.512483+00:00"
+    "lastUpdated": "2026-05-16T19:42:02.586238+00:00"
   },
   "players": [
     {
@@ -286,7 +286,7 @@
       "position": "T7",
       "scoreToPar": -3.0,
       "scoreDisplay": "-3",
-      "thru": 11,
+      "thru": 12,
       "teeTime": "2026-05-16T16:50Z",
       "status": "active",
       "rounds": [
@@ -1122,7 +1122,7 @@
       "position": "T27",
       "scoreToPar": -1.0,
       "scoreDisplay": "-1",
-      "thru": 7,
+      "thru": 8,
       "teeTime": "2026-05-16T18:00Z",
       "status": "active",
       "rounds": [
@@ -1647,6 +1647,44 @@
       ]
     },
     {
+      "id": "5502",
+      "name": "Andrew Putnam",
+      "shortName": "A. Putnam",
+      "country": "USA",
+      "position": "T44",
+      "scoreToPar": 1.0,
+      "scoreDisplay": "+1",
+      "thru": 12,
+      "teeTime": "2026-05-16T16:50Z",
+      "status": "active",
+      "rounds": [
+        -1,
+        1,
+        1,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "9126",
       "name": "Corey Conners",
       "shortName": "C. Conners",
@@ -1730,7 +1768,7 @@
       "position": "T44",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
-      "thru": 10,
+      "thru": 11,
       "teeTime": "2026-05-16T17:00Z",
       "status": "active",
       "rounds": [
@@ -1913,49 +1951,11 @@
       ]
     },
     {
-      "id": "5502",
-      "name": "Andrew Putnam",
-      "shortName": "A. Putnam",
-      "country": "USA",
-      "position": "T51",
-      "scoreToPar": 2.0,
-      "scoreDisplay": "+2",
-      "thru": 11,
-      "teeTime": "2026-05-16T16:50Z",
-      "status": "active",
-      "rounds": [
-        -1,
-        1,
-        2,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "4618114",
       "name": "Chandler Blanchet",
       "shortName": "C. Blanchet",
       "country": "USA",
-      "position": "T51",
+      "position": "T52",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
       "thru": 18,
@@ -1993,7 +1993,7 @@
       "name": "Denny McCarthy",
       "shortName": "D. McCarthy",
       "country": "USA",
-      "position": "T51",
+      "position": "T52",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
       "thru": 18,
@@ -2031,7 +2031,7 @@
       "name": "Kazuki Higa",
       "shortName": "K. Higa",
       "country": "Japan",
-      "position": "T51",
+      "position": "T52",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
       "thru": 18,
@@ -2069,7 +2069,7 @@
       "name": "Kurt Kitayama",
       "shortName": "K. Kitayama",
       "country": "USA",
-      "position": "T51",
+      "position": "T52",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
       "thru": 10,
