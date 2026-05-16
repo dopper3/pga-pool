@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 4,
     "cutCount": 82,
-    "lastUpdated": "2026-05-16T13:35:57.782477+00:00"
+    "lastUpdated": "2026-05-16T13:37:57.456989+00:00"
   },
   "players": [
     {
@@ -2262,7 +2262,7 @@
       "position": "T46",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
-      "thru": 2,
+      "thru": 3,
       "teeTime": "2026-05-16T12:57Z",
       "status": "active",
       "rounds": [
@@ -2490,7 +2490,7 @@
       "position": "T65",
       "scoreToPar": 3.0,
       "scoreDisplay": "+3",
-      "thru": 1,
+      "thru": 2,
       "teeTime": "2026-05-16T13:06Z",
       "status": "active",
       "rounds": [
@@ -2718,7 +2718,7 @@
       "position": "T72",
       "scoreToPar": 4.0,
       "scoreDisplay": "+4",
-      "thru": 8,
+      "thru": 9,
       "teeTime": "2026-05-16T11:45Z",
       "status": "active",
       "rounds": [
@@ -2863,6 +2863,44 @@
       ]
     },
     {
+      "id": "4587",
+      "name": "Shane Lowry",
+      "shortName": "S. Lowry",
+      "country": "Ireland",
+      "position": "T72",
+      "scoreToPar": 4.0,
+      "scoreDisplay": "+4",
+      "thru": 6,
+      "teeTime": "2026-05-16T12:21Z",
+      "status": "active",
+      "rounds": [
+        -2,
+        6,
+        0,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "9658",
       "name": "Taylor Pendrith",
       "shortName": "T. Pendrith",
@@ -2979,10 +3017,10 @@
       "name": "Christiaan Bezuidenhout",
       "shortName": "C. Bezuidenhout",
       "country": "South Africa",
-      "position": "T78",
+      "position": "T79",
       "scoreToPar": 5.0,
       "scoreDisplay": "+5",
-      "thru": 6,
+      "thru": 7,
       "teeTime": "2026-05-16T12:12Z",
       "status": "active",
       "rounds": [
@@ -3017,7 +3055,7 @@
       "name": "Elvis Smylie",
       "shortName": "E. Smylie",
       "country": "Australia",
-      "position": "T78",
+      "position": "T79",
       "scoreToPar": 5.0,
       "scoreDisplay": "+5",
       "thru": 4,
@@ -3172,44 +3210,6 @@
       "rounds": [
         2,
         3,
-        null,
-        null
-      ]
-    },
-    {
-      "id": "4587",
-      "name": "Shane Lowry",
-      "shortName": "S. Lowry",
-      "country": "Ireland",
-      "position": "T78",
-      "scoreToPar": 5.0,
-      "scoreDisplay": "+5",
-      "thru": 5,
-      "teeTime": "2026-05-16T12:21Z",
-      "status": "active",
-      "rounds": [
-        -2,
-        6,
-        1,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
         null,
         null
       ]
