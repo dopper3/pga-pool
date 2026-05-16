@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 4,
     "cutCount": 82,
-    "lastUpdated": "2026-05-16T15:23:58.975936+00:00"
+    "lastUpdated": "2026-05-16T15:25:57.673255+00:00"
   },
   "players": [
     {
@@ -1692,7 +1692,7 @@
       "position": "T34",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
-      "thru": 8,
+      "thru": 9,
       "teeTime": "2026-05-16T13:24Z",
       "status": "active",
       "rounds": [
@@ -2262,7 +2262,7 @@
       "position": "T50",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
-      "thru": 14,
+      "thru": 15,
       "teeTime": "2026-05-16T12:03Z",
       "status": "active",
       "rounds": [
@@ -3573,44 +3573,6 @@
       ]
     },
     {
-      "id": "4714133",
-      "name": "Elvis Smylie",
-      "shortName": "E. Smylie",
-      "country": "Australia",
-      "position": "T80",
-      "scoreToPar": 7.0,
-      "scoreDisplay": "+7",
-      "thru": 11,
-      "teeTime": "2026-05-16T12:39Z",
-      "status": "active",
-      "rounds": [
-        2,
-        2,
-        3,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "4589438",
       "name": "Harry Hall",
       "shortName": "H. Hall",
@@ -3633,7 +3595,7 @@
       "name": "Luke Donald",
       "shortName": "L. Donald",
       "country": "England",
-      "position": "T80",
+      "position": "80",
       "scoreToPar": 7.0,
       "scoreDisplay": "+7",
       "thru": 12,
@@ -3788,6 +3750,44 @@
       "rounds": [
         4,
         4,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "4714133",
+      "name": "Elvis Smylie",
+      "shortName": "E. Smylie",
+      "country": "Australia",
+      "position": "81",
+      "scoreToPar": 8.0,
+      "scoreDisplay": "+8",
+      "thru": 12,
+      "teeTime": "2026-05-16T12:39Z",
+      "status": "active",
+      "rounds": [
+        2,
+        2,
+        4,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
         null,
         null
       ]
