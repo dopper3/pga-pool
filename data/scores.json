@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 4,
     "cutCount": 82,
-    "lastUpdated": "2026-05-16T15:47:58.623873+00:00"
+    "lastUpdated": "2026-05-16T15:49:59.024030+00:00"
   },
   "players": [
     {
@@ -1502,7 +1502,7 @@
       "position": "T36",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
-      "thru": 1,
+      "thru": 2,
       "teeTime": "2026-05-16T15:20Z",
       "status": "active",
       "rounds": [
@@ -1585,44 +1585,6 @@
         -2,
         3,
         null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
-      "id": "4597553",
-      "name": "Kazuki Higa",
-      "shortName": "K. Higa",
-      "country": "Japan",
-      "position": "T36",
-      "scoreToPar": 1.0,
-      "scoreDisplay": "+1",
-      "thru": 9,
-      "teeTime": "2026-05-16T13:33Z",
-      "status": "active",
-      "rounds": [
-        1,
-        1,
-        -1,
         null
       ],
       "r4Holes": [
@@ -1844,7 +1806,7 @@
       "position": "T36",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
-      "thru": 2,
+      "thru": 3,
       "teeTime": "2026-05-16T15:10Z",
       "status": "active",
       "rounds": [
@@ -1989,6 +1951,44 @@
       ]
     },
     {
+      "id": "6086",
+      "name": "Tom Hoge",
+      "shortName": "T. Hoge",
+      "country": "USA",
+      "position": "T36",
+      "scoreToPar": 1.0,
+      "scoreDisplay": "+1",
+      "thru": 8,
+      "teeTime": "2026-05-16T13:51Z",
+      "status": "active",
+      "rounds": [
+        2,
+        0,
+        0,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "10140",
       "name": "Xander Schauffele",
       "shortName": "X. Schauffele",
@@ -1996,7 +1996,7 @@
       "position": "T36",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
-      "thru": 2,
+      "thru": 3,
       "teeTime": "2026-05-16T15:10Z",
       "status": "active",
       "rounds": [
@@ -2217,6 +2217,44 @@
       ]
     },
     {
+      "id": "4597553",
+      "name": "Kazuki Higa",
+      "shortName": "K. Higa",
+      "country": "Japan",
+      "position": "T54",
+      "scoreToPar": 2.0,
+      "scoreDisplay": "+2",
+      "thru": 10,
+      "teeTime": "2026-05-16T13:33Z",
+      "status": "active",
+      "rounds": [
+        1,
+        1,
+        0,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "8906",
       "name": "Keith Mitchell",
       "shortName": "K. Mitchell",
@@ -2262,7 +2300,7 @@
       "position": "T54",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
-      "thru": 9,
+      "thru": 10,
       "teeTime": "2026-05-16T13:33Z",
       "status": "active",
       "rounds": [
@@ -2307,44 +2345,6 @@
         -1,
         2,
         1,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
-      "id": "6086",
-      "name": "Tom Hoge",
-      "shortName": "T. Hoge",
-      "country": "USA",
-      "position": "T54",
-      "scoreToPar": 2.0,
-      "scoreDisplay": "+2",
-      "thru": 8,
-      "teeTime": "2026-05-16T13:51Z",
-      "status": "active",
-      "rounds": [
-        2,
-        0,
-        0,
         null
       ],
       "r4Holes": [
@@ -2944,7 +2944,7 @@
       "position": "T77",
       "scoreToPar": 5.0,
       "scoreDisplay": "+5",
-      "thru": 11,
+      "thru": 12,
       "teeTime": "2026-05-16T13:06Z",
       "status": "active",
       "rounds": [
@@ -3834,7 +3834,7 @@
       "position": "81",
       "scoreToPar": 8.0,
       "scoreDisplay": "+8",
-      "thru": 13,
+      "thru": 14,
       "teeTime": "2026-05-16T12:39Z",
       "status": "active",
       "rounds": [
