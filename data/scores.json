@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 4,
     "cutCount": 82,
-    "lastUpdated": "2026-05-16T15:45:58.648817+00:00"
+    "lastUpdated": "2026-05-16T15:47:58.623873+00:00"
   },
   "players": [
     {
@@ -476,7 +476,7 @@
       "position": "T9",
       "scoreToPar": -2.0,
       "scoreDisplay": "-2",
-      "thru": 10,
+      "thru": 11,
       "teeTime": "2026-05-16T13:15Z",
       "status": "active",
       "rounds": [
@@ -1692,7 +1692,7 @@
       "position": "T36",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
-      "thru": 5,
+      "thru": 6,
       "teeTime": "2026-05-16T14:30Z",
       "status": "active",
       "rounds": [
@@ -1882,7 +1882,7 @@
       "position": "T36",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
-      "thru": 1,
+      "thru": 2,
       "teeTime": "2026-05-16T15:20Z",
       "status": "active",
       "rounds": [
@@ -2452,7 +2452,7 @@
       "position": "T63",
       "scoreToPar": 3.0,
       "scoreDisplay": "+3",
-      "thru": 5,
+      "thru": 6,
       "teeTime": "2026-05-16T14:30Z",
       "status": "active",
       "rounds": [
@@ -2566,7 +2566,7 @@
       "position": "T63",
       "scoreToPar": 3.0,
       "scoreDisplay": "+3",
-      "thru": 14,
+      "thru": 15,
       "teeTime": "2026-05-16T12:21Z",
       "status": "active",
       "rounds": [
@@ -3573,6 +3573,44 @@
       ]
     },
     {
+      "id": "4714133",
+      "name": "Elvis Smylie",
+      "shortName": "E. Smylie",
+      "country": "Australia",
+      "position": "80",
+      "scoreToPar": 7.0,
+      "scoreDisplay": "+7",
+      "thru": 14,
+      "teeTime": "2026-05-16T12:39Z",
+      "status": "active",
+      "rounds": [
+        2,
+        2,
+        3,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "4589438",
       "name": "Harry Hall",
       "shortName": "H. Hall",
@@ -3717,44 +3755,6 @@
       ]
     },
     {
-      "id": "4714133",
-      "name": "Elvis Smylie",
-      "shortName": "E. Smylie",
-      "country": "Australia",
-      "position": "T80",
-      "scoreToPar": 8.0,
-      "scoreDisplay": "+8",
-      "thru": 13,
-      "teeTime": "2026-05-16T12:39Z",
-      "status": "active",
-      "rounds": [
-        2,
-        2,
-        4,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "5882",
       "name": "Emiliano Grillo",
       "shortName": "E. Grillo",
@@ -3831,7 +3831,7 @@
       "name": "Luke Donald",
       "shortName": "L. Donald",
       "country": "England",
-      "position": "T80",
+      "position": "81",
       "scoreToPar": 8.0,
       "scoreDisplay": "+8",
       "thru": 13,
@@ -4099,44 +4099,6 @@
       ]
     },
     {
-      "id": "9525",
-      "name": "Brian Campbell",
-      "shortName": "B. Campbell",
-      "country": "USA",
-      "position": "82",
-      "scoreToPar": 12.0,
-      "scoreDisplay": "+12",
-      "thru": 14,
-      "teeTime": "2026-05-16T12:21Z",
-      "status": "active",
-      "rounds": [
-        2,
-        2,
-        8,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "4408324",
       "name": "Ian Holt",
       "shortName": "I. Holt",
@@ -4276,6 +4238,44 @@
       "rounds": [
         9,
         6,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "9525",
+      "name": "Brian Campbell",
+      "shortName": "B. Campbell",
+      "country": "USA",
+      "position": "82",
+      "scoreToPar": 15.0,
+      "scoreDisplay": "+15",
+      "thru": 15,
+      "teeTime": "2026-05-16T12:21Z",
+      "status": "active",
+      "rounds": [
+        2,
+        2,
+        11,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
         null,
         null
       ]
