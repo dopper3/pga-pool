@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 4,
     "cutCount": 82,
-    "lastUpdated": "2026-05-16T13:37:57.456989+00:00"
+    "lastUpdated": "2026-05-16T13:40:00.869227+00:00"
   },
   "players": [
     {
@@ -2642,13 +2642,13 @@
       "position": "T65",
       "scoreToPar": 3.0,
       "scoreDisplay": "+3",
-      "thru": 0,
+      "thru": 1,
       "teeTime": "2026-05-16T13:24Z",
-      "status": "scheduled",
+      "status": "active",
       "rounds": [
         2,
         1,
-        null,
+        0,
         null
       ],
       "r4Holes": [
@@ -2680,13 +2680,13 @@
       "position": "T65",
       "scoreToPar": 3.0,
       "scoreDisplay": "+3",
-      "thru": 0,
+      "thru": 1,
       "teeTime": "2026-05-16T13:24Z",
-      "status": "scheduled",
+      "status": "active",
       "rounds": [
         3,
         0,
-        null,
+        0,
         null
       ],
       "r4Holes": [
@@ -2794,7 +2794,7 @@
       "position": "T72",
       "scoreToPar": 4.0,
       "scoreDisplay": "+4",
-      "thru": 3,
+      "thru": 4,
       "teeTime": "2026-05-16T12:48Z",
       "status": "active",
       "rounds": [
@@ -2901,44 +2901,6 @@
       ]
     },
     {
-      "id": "9658",
-      "name": "Taylor Pendrith",
-      "shortName": "T. Pendrith",
-      "country": "Canada",
-      "position": "T72",
-      "scoreToPar": 4.0,
-      "scoreDisplay": "+4",
-      "thru": 7,
-      "teeTime": "2026-05-16T12:03Z",
-      "status": "active",
-      "rounds": [
-        2,
-        2,
-        0,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "5076025",
       "name": "William Mouw",
       "shortName": "W. Mouw",
@@ -2946,7 +2908,7 @@
       "position": "T72",
       "scoreToPar": 4.0,
       "scoreDisplay": "+4",
-      "thru": 6,
+      "thru": 7,
       "teeTime": "2026-05-16T12:12Z",
       "status": "active",
       "rounds": [
@@ -3017,7 +2979,7 @@
       "name": "Christiaan Bezuidenhout",
       "shortName": "C. Bezuidenhout",
       "country": "South Africa",
-      "position": "T79",
+      "position": "T78",
       "scoreToPar": 5.0,
       "scoreDisplay": "+5",
       "thru": 7,
@@ -3055,7 +3017,7 @@
       "name": "Elvis Smylie",
       "shortName": "E. Smylie",
       "country": "Australia",
-      "position": "T79",
+      "position": "T78",
       "scoreToPar": 5.0,
       "scoreDisplay": "+5",
       "thru": 4,
@@ -3228,6 +3190,44 @@
       "rounds": [
         3,
         2,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "9658",
+      "name": "Taylor Pendrith",
+      "shortName": "T. Pendrith",
+      "country": "Canada",
+      "position": "T78",
+      "scoreToPar": 5.0,
+      "scoreDisplay": "+5",
+      "thru": 8,
+      "teeTime": "2026-05-16T12:03Z",
+      "status": "active",
+      "rounds": [
+        2,
+        2,
+        1,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
         null,
         null
       ]
@@ -3631,44 +3631,6 @@
       ]
     },
     {
-      "id": "9525",
-      "name": "Brian Campbell",
-      "shortName": "B. Campbell",
-      "country": "USA",
-      "position": "82",
-      "scoreToPar": 7.0,
-      "scoreDisplay": "+7",
-      "thru": 5,
-      "teeTime": "2026-05-16T12:21Z",
-      "status": "active",
-      "rounds": [
-        2,
-        2,
-        3,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "10046",
       "name": "Bryson DeChambeau",
       "shortName": "B. DeChambeau",
@@ -3916,6 +3878,44 @@
       "rounds": [
         6,
         2,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "9525",
+      "name": "Brian Campbell",
+      "shortName": "B. Campbell",
+      "country": "USA",
+      "position": "82",
+      "scoreToPar": 9.0,
+      "scoreDisplay": "+9",
+      "thru": 6,
+      "teeTime": "2026-05-16T12:21Z",
+      "status": "active",
+      "rounds": [
+        2,
+        2,
+        5,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
         null,
         null
       ]
