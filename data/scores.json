@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 4,
     "cutCount": 82,
-    "lastUpdated": "2026-05-16T12:39:58.103785+00:00"
+    "lastUpdated": "2026-05-16T12:41:58.426178+00:00"
   },
   "players": [
     {
@@ -2718,7 +2718,7 @@
       "position": "T70",
       "scoreToPar": 4.0,
       "scoreDisplay": "+4",
-      "thru": 1,
+      "thru": 2,
       "teeTime": "2026-05-16T12:12Z",
       "status": "active",
       "rounds": [
@@ -2867,10 +2867,10 @@
       "name": "Johnny Keefer",
       "shortName": "J. Keefer",
       "country": "USA",
-      "position": "T70",
+      "position": "T71",
       "scoreToPar": 4.0,
       "scoreDisplay": "+4",
-      "thru": 2,
+      "thru": 3,
       "teeTime": "2026-05-16T12:03Z",
       "status": "active",
       "rounds": [
