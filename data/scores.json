@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 4,
     "cutCount": 82,
-    "lastUpdated": "2026-05-16T11:57:59.216897+00:00"
+    "lastUpdated": "2026-05-16T12:00:00.722635+00:00"
   },
   "players": [
     {
@@ -2749,44 +2749,6 @@
       ]
     },
     {
-      "id": "1030",
-      "name": "Jhonattan Vegas",
-      "shortName": "J. Vegas",
-      "country": "Venezuela",
-      "position": "T68",
-      "scoreToPar": 4.0,
-      "scoreDisplay": "+4",
-      "thru": 0,
-      "teeTime": "2026-05-16T11:45Z",
-      "status": "scheduled",
-      "rounds": [
-        3,
-        1,
-        null,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "4671",
       "name": "John Parry",
       "shortName": "J. Parry",
@@ -3196,6 +3158,44 @@
       "rounds": [
         1,
         4,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "1030",
+      "name": "Jhonattan Vegas",
+      "shortName": "J. Vegas",
+      "country": "Venezuela",
+      "position": "82",
+      "scoreToPar": 5.0,
+      "scoreDisplay": "+5",
+      "thru": 1,
+      "teeTime": "2026-05-16T11:45Z",
+      "status": "active",
+      "rounds": [
+        3,
+        1,
+        1,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
         null,
         null
       ]
