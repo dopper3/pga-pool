@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 4,
     "cutCount": 82,
-    "lastUpdated": "2026-05-16T14:25:58.376682+00:00"
+    "lastUpdated": "2026-05-16T14:27:58.959583+00:00"
   },
   "players": [
     {
@@ -514,7 +514,7 @@
       "position": "T9",
       "scoreToPar": -2.0,
       "scoreDisplay": "-2",
-      "thru": 7,
+      "thru": 8,
       "teeTime": "2026-05-16T12:48Z",
       "status": "active",
       "rounds": [
@@ -1502,7 +1502,7 @@
       "position": "T34",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
-      "thru": 1,
+      "thru": 2,
       "teeTime": "2026-05-16T14:00Z",
       "status": "active",
       "rounds": [
@@ -1958,7 +1958,7 @@
       "position": "T52",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
-      "thru": 1,
+      "thru": 2,
       "teeTime": "2026-05-16T14:00Z",
       "status": "active",
       "rounds": [
@@ -2224,7 +2224,7 @@
       "position": "T52",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
-      "thru": 3,
+      "thru": 4,
       "teeTime": "2026-05-16T13:33Z",
       "status": "active",
       "rounds": [
@@ -2559,6 +2559,44 @@
       ]
     },
     {
+      "id": "4597553",
+      "name": "Kazuki Higa",
+      "shortName": "K. Higa",
+      "country": "Japan",
+      "position": "T64",
+      "scoreToPar": 3.0,
+      "scoreDisplay": "+3",
+      "thru": 4,
+      "teeTime": "2026-05-16T13:33Z",
+      "status": "active",
+      "rounds": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "9658",
       "name": "Taylor Pendrith",
       "shortName": "T. Pendrith",
@@ -2639,7 +2677,7 @@
       "name": "Christiaan Bezuidenhout",
       "shortName": "C. Bezuidenhout",
       "country": "South Africa",
-      "position": "T70",
+      "position": "T71",
       "scoreToPar": 4.0,
       "scoreDisplay": "+4",
       "thru": 10,
@@ -2673,11 +2711,49 @@
       ]
     },
     {
+      "id": "9025",
+      "name": "Daniel Berger",
+      "shortName": "D. Berger",
+      "country": "USA",
+      "position": "T77",
+      "scoreToPar": 4.0,
+      "scoreDisplay": "+4",
+      "thru": 9,
+      "teeTime": "2026-05-16T12:30Z",
+      "status": "active",
+      "rounds": [
+        4,
+        0,
+        0,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "4671",
       "name": "John Parry",
       "shortName": "J. Parry",
       "country": "England",
-      "position": "T70",
+      "position": "T71",
       "scoreToPar": 4.0,
       "scoreDisplay": "+4",
       "thru": 8,
@@ -2711,49 +2787,11 @@
       ]
     },
     {
-      "id": "4597553",
-      "name": "Kazuki Higa",
-      "shortName": "K. Higa",
-      "country": "Japan",
-      "position": "T70",
-      "scoreToPar": 4.0,
-      "scoreDisplay": "+4",
-      "thru": 3,
-      "teeTime": "2026-05-16T13:33Z",
-      "status": "active",
-      "rounds": [
-        1,
-        1,
-        2,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "8906",
       "name": "Keith Mitchell",
       "shortName": "K. Mitchell",
       "country": "USA",
-      "position": "T70",
+      "position": "T71",
       "scoreToPar": 4.0,
       "scoreDisplay": "+4",
       "thru": 3,
@@ -2791,7 +2829,7 @@
       "name": "Kristoffer Reitan",
       "shortName": "K. Reitan",
       "country": "Norway",
-      "position": "T70",
+      "position": "T71",
       "scoreToPar": 4.0,
       "scoreDisplay": "+4",
       "thru": 7,
@@ -2829,7 +2867,7 @@
       "name": "Sami Välimäki",
       "shortName": "S. Välimäki",
       "country": "Finland",
-      "position": "T70",
+      "position": "T71",
       "scoreToPar": 4.0,
       "scoreDisplay": "+4",
       "thru": 4,
@@ -2867,7 +2905,7 @@
       "name": "Shane Lowry",
       "shortName": "S. Lowry",
       "country": "Ireland",
-      "position": "T70",
+      "position": "T71",
       "scoreToPar": 4.0,
       "scoreDisplay": "+4",
       "thru": 9,
@@ -2932,44 +2970,6 @@
       "rounds": [
         2,
         3,
-        null,
-        null
-      ]
-    },
-    {
-      "id": "9025",
-      "name": "Daniel Berger",
-      "shortName": "D. Berger",
-      "country": "USA",
-      "position": "T77",
-      "scoreToPar": 5.0,
-      "scoreDisplay": "+5",
-      "thru": 8,
-      "teeTime": "2026-05-16T12:30Z",
-      "status": "active",
-      "rounds": [
-        4,
-        0,
-        1,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
         null,
         null
       ]
