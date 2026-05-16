@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 4,
     "cutCount": 82,
-    "lastUpdated": "2026-05-16T13:41:57.542254+00:00"
+    "lastUpdated": "2026-05-16T13:44:00.082223+00:00"
   },
   "players": [
     {
@@ -2832,7 +2832,7 @@
       "position": "T72",
       "scoreToPar": 4.0,
       "scoreDisplay": "+4",
-      "thru": 4,
+      "thru": 5,
       "teeTime": "2026-05-16T12:39Z",
       "status": "active",
       "rounds": [
@@ -3793,6 +3793,44 @@
       ]
     },
     {
+      "id": "9525",
+      "name": "Brian Campbell",
+      "shortName": "B. Campbell",
+      "country": "USA",
+      "position": "82",
+      "scoreToPar": 8.0,
+      "scoreDisplay": "+8",
+      "thru": 6,
+      "teeTime": "2026-05-16T12:21Z",
+      "status": "active",
+      "rounds": [
+        2,
+        2,
+        4,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "5882",
       "name": "Emiliano Grillo",
       "shortName": "E. Grillo",
@@ -3878,44 +3916,6 @@
       "rounds": [
         6,
         2,
-        null,
-        null
-      ]
-    },
-    {
-      "id": "9525",
-      "name": "Brian Campbell",
-      "shortName": "B. Campbell",
-      "country": "USA",
-      "position": "82",
-      "scoreToPar": 9.0,
-      "scoreDisplay": "+9",
-      "thru": 6,
-      "teeTime": "2026-05-16T12:21Z",
-      "status": "active",
-      "rounds": [
-        2,
-        2,
-        5,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
         null,
         null
       ]
