@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 4,
     "cutCount": 82,
-    "lastUpdated": "2026-05-16T12:49:59.555540+00:00"
+    "lastUpdated": "2026-05-16T12:51:58.583705+00:00"
   },
   "players": [
     {
@@ -2528,7 +2528,7 @@
       "position": "T59",
       "scoreToPar": 3.0,
       "scoreDisplay": "+3",
-      "thru": 4,
+      "thru": 5,
       "teeTime": "2026-05-16T11:54Z",
       "status": "active",
       "rounds": [
@@ -2725,44 +2725,6 @@
         2,
         2,
         -1,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
-      "id": "9525",
-      "name": "Brian Campbell",
-      "shortName": "B. Campbell",
-      "country": "USA",
-      "position": "T73",
-      "scoreToPar": 4.0,
-      "scoreDisplay": "+4",
-      "thru": 1,
-      "teeTime": "2026-05-16T12:21Z",
-      "status": "active",
-      "rounds": [
-        2,
-        2,
-        0,
         null
       ],
       "r4Holes": [
@@ -3015,44 +2977,6 @@
       ]
     },
     {
-      "id": "4587",
-      "name": "Shane Lowry",
-      "shortName": "S. Lowry",
-      "country": "Ireland",
-      "position": "T73",
-      "scoreToPar": 4.0,
-      "scoreDisplay": "+4",
-      "thru": 1,
-      "teeTime": "2026-05-16T12:21Z",
-      "status": "active",
-      "rounds": [
-        -2,
-        6,
-        0,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "5076025",
       "name": "William Mouw",
       "shortName": "W. Mouw",
@@ -3167,7 +3091,7 @@
       "name": "Jhonattan Vegas",
       "shortName": "J. Vegas",
       "country": "Venezuela",
-      "position": "82",
+      "position": "T80",
       "scoreToPar": 5.0,
       "scoreDisplay": "+5",
       "thru": 5,
@@ -3286,6 +3210,44 @@
       "rounds": [
         2,
         3,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "4587",
+      "name": "Shane Lowry",
+      "shortName": "S. Lowry",
+      "country": "Ireland",
+      "position": "T80",
+      "scoreToPar": 5.0,
+      "scoreDisplay": "+5",
+      "thru": 2,
+      "teeTime": "2026-05-16T12:21Z",
+      "status": "active",
+      "rounds": [
+        -2,
+        6,
+        1,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
         null,
         null
       ]
@@ -3430,6 +3392,44 @@
       "rounds": [
         2,
         4,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "9525",
+      "name": "Brian Campbell",
+      "shortName": "B. Campbell",
+      "country": "USA",
+      "position": "82",
+      "scoreToPar": 6.0,
+      "scoreDisplay": "+6",
+      "thru": 2,
+      "teeTime": "2026-05-16T12:21Z",
+      "status": "active",
+      "rounds": [
+        2,
+        2,
+        2,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
         null,
         null
       ]
