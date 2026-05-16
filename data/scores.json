@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 4,
     "cutCount": 82,
-    "lastUpdated": "2026-05-16T17:16:02.681554+00:00"
+    "lastUpdated": "2026-05-16T17:18:03.510383+00:00"
   },
   "players": [
     {
@@ -400,7 +400,7 @@
       "position": "T10",
       "scoreToPar": -2.0,
       "scoreDisplay": "-2",
-      "thru": 6,
+      "thru": 7,
       "teeTime": "2026-05-16T15:50Z",
       "status": "active",
       "rounds": [
@@ -628,9 +628,9 @@
       "position": "T10",
       "scoreToPar": -2.0,
       "scoreDisplay": "-2",
-      "thru": 17,
+      "thru": 18,
       "teeTime": "2026-05-16T12:57Z",
-      "status": "active",
+      "status": "final",
       "rounds": [
         1,
         2,
@@ -1084,7 +1084,7 @@
       "position": "T24",
       "scoreToPar": -1.0,
       "scoreDisplay": "-1",
-      "thru": 11,
+      "thru": 12,
       "teeTime": "2026-05-16T14:30Z",
       "status": "active",
       "rounds": [
@@ -1357,6 +1357,44 @@
         -1,
         2,
         -1,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "3448",
+      "name": "Dustin Johnson",
+      "shortName": "D. Johnson",
+      "country": "USA",
+      "position": "T34",
+      "scoreToPar": 0.0,
+      "scoreDisplay": "E",
+      "thru": 11,
+      "teeTime": "2026-05-16T14:50Z",
+      "status": "active",
+      "rounds": [
+        2,
+        0,
+        -2,
         null
       ],
       "r4Holes": [
@@ -1765,7 +1803,7 @@
       "name": "Andrew Putnam",
       "shortName": "A. Putnam",
       "country": "USA",
-      "position": "T47",
+      "position": "T48",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
       "thru": 1,
@@ -1803,7 +1841,7 @@
       "name": "Cameron Smith",
       "shortName": "C. Smith",
       "country": "Australia",
-      "position": "T47",
+      "position": "T48",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
       "thru": 3,
@@ -1837,52 +1875,14 @@
       ]
     },
     {
-      "id": "3448",
-      "name": "Dustin Johnson",
-      "shortName": "D. Johnson",
-      "country": "USA",
-      "position": "T47",
-      "scoreToPar": 1.0,
-      "scoreDisplay": "+1",
-      "thru": 10,
-      "teeTime": "2026-05-16T14:50Z",
-      "status": "active",
-      "rounds": [
-        2,
-        0,
-        -1,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "4251",
       "name": "Ryan Fox",
       "shortName": "R. Fox",
       "country": "New Zealand",
-      "position": "T47",
+      "position": "T48",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
-      "thru": 4,
+      "thru": 5,
       "teeTime": "2026-05-16T16:20Z",
       "status": "active",
       "rounds": [
@@ -1917,7 +1917,7 @@
       "name": "Taylor Pendrith",
       "shortName": "T. Pendrith",
       "country": "Canada",
-      "position": "T47",
+      "position": "T48",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
       "thru": 18,
@@ -1996,7 +1996,7 @@
       "position": "T52",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
-      "thru": 10,
+      "thru": 11,
       "teeTime": "2026-05-16T14:50Z",
       "status": "active",
       "rounds": [
@@ -2376,7 +2376,7 @@
       "position": "T56",
       "scoreToPar": 3.0,
       "scoreDisplay": "+3",
-      "thru": 11,
+      "thru": 12,
       "teeTime": "2026-05-16T14:30Z",
       "status": "active",
       "rounds": [
@@ -2490,7 +2490,7 @@
       "position": "T56",
       "scoreToPar": 3.0,
       "scoreDisplay": "+3",
-      "thru": 15,
+      "thru": 16,
       "teeTime": "2026-05-16T13:24Z",
       "status": "active",
       "rounds": [
@@ -2825,6 +2825,44 @@
       ]
     },
     {
+      "id": "4585548",
+      "name": "Sami Välimäki",
+      "shortName": "S. Välimäki",
+      "country": "Finland",
+      "position": "T69",
+      "scoreToPar": 4.0,
+      "scoreDisplay": "+4",
+      "thru": 16,
+      "teeTime": "2026-05-16T13:24Z",
+      "status": "active",
+      "rounds": [
+        3,
+        0,
+        1,
+        null
+      ],
+      "r4Holes": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "4587",
       "name": "Shane Lowry",
       "shortName": "S. Lowry",
@@ -3031,7 +3069,7 @@
       "name": "Rasmus Neergaard-Petersen",
       "shortName": "R. Neergaard-Petersen",
       "country": "Denmark",
-      "position": "T77",
+      "position": "78",
       "scoreToPar": 5.0,
       "scoreDisplay": "+5",
       "thru": 18,
@@ -3096,44 +3134,6 @@
       "rounds": [
         2,
         3,
-        null,
-        null
-      ]
-    },
-    {
-      "id": "4585548",
-      "name": "Sami Välimäki",
-      "shortName": "S. Välimäki",
-      "country": "Finland",
-      "position": "T77",
-      "scoreToPar": 5.0,
-      "scoreDisplay": "+5",
-      "thru": 15,
-      "teeTime": "2026-05-16T13:24Z",
-      "status": "active",
-      "rounds": [
-        3,
-        0,
-        2,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
         null,
         null
       ]
