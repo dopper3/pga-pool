@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 4,
     "cutCount": 82,
-    "lastUpdated": "2026-05-16T12:35:58.589829+00:00"
+    "lastUpdated": "2026-05-16T12:37:59.965504+00:00"
   },
   "players": [
     {
@@ -2984,13 +2984,13 @@
       "position": "T70",
       "scoreToPar": 4.0,
       "scoreDisplay": "+4",
-      "thru": 0,
+      "thru": 1,
       "teeTime": "2026-05-16T12:21Z",
-      "status": "scheduled",
+      "status": "active",
       "rounds": [
         -2,
         6,
-        null,
+        0,
         null
       ],
       "r4Holes": [
