@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 4,
     "cutCount": 82,
-    "lastUpdated": "2026-05-17T20:33:57.138093+00:00"
+    "lastUpdated": "2026-05-17T20:35:55.773820+00:00"
   },
   "players": [
     {
@@ -127,6 +127,44 @@
       ]
     },
     {
+      "id": "9780",
+      "name": "Jon Rahm",
+      "shortName": "J. Rahm",
+      "country": "Spain",
+      "position": "T2",
+      "scoreToPar": -5.0,
+      "scoreDisplay": "-5",
+      "thru": 9,
+      "teeTime": "2026-05-17T18:25Z",
+      "status": "active",
+      "rounds": [
+        -1,
+        0,
+        -3,
+        -1
+      ],
+      "r4Holes": [
+        3,
+        3,
+        5,
+        4,
+        3,
+        4,
+        5,
+        3,
+        4,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "4848",
       "name": "Justin Thomas",
       "shortName": "J. Thomas",
@@ -203,49 +241,11 @@
       ]
     },
     {
-      "id": "9780",
-      "name": "Jon Rahm",
-      "shortName": "J. Rahm",
-      "country": "Spain",
-      "position": "T6",
-      "scoreToPar": -4.0,
-      "scoreDisplay": "-4",
-      "thru": 8,
-      "teeTime": "2026-05-17T18:25Z",
-      "status": "active",
-      "rounds": [
-        -1,
-        0,
-        -3,
-        0
-      ],
-      "r4Holes": [
-        3,
-        3,
-        5,
-        4,
-        3,
-        4,
-        5,
-        3,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "4375972",
       "name": "Ludvig Åberg",
       "shortName": "L. Åberg",
       "country": "Sweden",
-      "position": "T6",
+      "position": "T7",
       "scoreToPar": -4.0,
       "scoreDisplay": "-4",
       "thru": 9,
@@ -283,7 +283,7 @@
       "name": "Rory McIlroy",
       "shortName": "R. McIlroy",
       "country": "Northern Ireland",
-      "position": "T6",
+      "position": "T7",
       "scoreToPar": -4.0,
       "scoreDisplay": "-4",
       "thru": 10,
@@ -321,7 +321,7 @@
       "name": "Xander Schauffele",
       "shortName": "X. Schauffele",
       "country": "USA",
-      "position": "T6",
+      "position": "T7",
       "scoreToPar": -4.0,
       "scoreDisplay": "-4",
       "thru": 10,
@@ -400,7 +400,7 @@
       "position": "T10",
       "scoreToPar": -3.0,
       "scoreDisplay": "-3",
-      "thru": 14,
+      "thru": 15,
       "teeTime": "2026-05-17T17:05Z",
       "status": "active",
       "rounds": [
@@ -424,7 +424,7 @@
         4,
         4,
         3,
-        null,
+        4,
         null,
         null,
         null
@@ -552,7 +552,7 @@
       "position": "T15",
       "scoreToPar": -2.0,
       "scoreDisplay": "-2",
-      "thru": 12,
+      "thru": 13,
       "teeTime": "2026-05-17T17:25Z",
       "status": "active",
       "rounds": [
@@ -574,7 +574,7 @@
         4,
         5,
         4,
-        null,
+        4,
         null,
         null,
         null,
@@ -1198,7 +1198,7 @@
       "position": "T28",
       "scoreToPar": 0.0,
       "scoreDisplay": "E",
-      "thru": 16,
+      "thru": 17,
       "teeTime": "2026-05-17T16:45Z",
       "status": "active",
       "rounds": [
@@ -1224,7 +1224,7 @@
         4,
         5,
         4,
-        null,
+        3,
         null
       ]
     },
