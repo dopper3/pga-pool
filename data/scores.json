@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 4,
     "cutCount": 82,
-    "lastUpdated": "2026-05-17T20:59:55.986039+00:00"
+    "lastUpdated": "2026-05-17T21:01:57.213902+00:00"
   },
   "players": [
     {
@@ -17,7 +17,7 @@
       "name": "Aaron Rai",
       "shortName": "A. Rai",
       "country": "England",
-      "position": "T1",
+      "position": "1",
       "scoreToPar": -6.0,
       "scoreDisplay": "-6",
       "thru": 11,
@@ -55,17 +55,17 @@
       "name": "Matti Schmid",
       "shortName": "M. Schmid",
       "country": "Germany",
-      "position": "T1",
+      "position": "T2",
       "scoreToPar": -6.0,
       "scoreDisplay": "-6",
-      "thru": 9,
+      "thru": 10,
       "teeTime": "2026-05-17T18:35Z",
       "status": "active",
       "rounds": [
         -1,
         2,
         -5,
-        -2
+        -1
       ],
       "r4Holes": [
         5,
@@ -93,7 +93,7 @@
       "name": "Cameron Smith",
       "shortName": "C. Smith",
       "country": "Australia",
-      "position": "T3",
+      "position": "T2",
       "scoreToPar": -5.0,
       "scoreDisplay": "-5",
       "thru": 16,
@@ -131,7 +131,7 @@
       "name": "Jon Rahm",
       "shortName": "J. Rahm",
       "country": "Spain",
-      "position": "T3",
+      "position": "T2",
       "scoreToPar": -5.0,
       "scoreDisplay": "-5",
       "thru": 10,
@@ -169,7 +169,7 @@
       "name": "Justin Thomas",
       "shortName": "J. Thomas",
       "country": "USA",
-      "position": "T3",
+      "position": "T2",
       "scoreToPar": -5.0,
       "scoreDisplay": "-5",
       "thru": 18,
@@ -210,7 +210,7 @@
       "position": "T6",
       "scoreToPar": -4.0,
       "scoreDisplay": "-4",
-      "thru": 9,
+      "thru": 10,
       "teeTime": "2026-05-17T18:35Z",
       "status": "active",
       "rounds": [
@@ -229,7 +229,7 @@
         4,
         4,
         4,
-        null,
+        4,
         null,
         null,
         null,
@@ -400,7 +400,7 @@
       "position": "T9",
       "scoreToPar": -3.0,
       "scoreDisplay": "-3",
-      "thru": 14,
+      "thru": 15,
       "teeTime": "2026-05-17T17:25Z",
       "status": "active",
       "rounds": [
@@ -424,7 +424,7 @@
         4,
         4,
         3,
-        null,
+        4,
         null,
         null,
         null
