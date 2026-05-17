@@ -9,7 +9,7 @@
     "statusDescription": "In Progress",
     "cutScore": 4,
     "cutCount": 82,
-    "lastUpdated": "2026-05-17T20:27:55.469785+00:00"
+    "lastUpdated": "2026-05-17T20:29:55.667703+00:00"
   },
   "players": [
     {
@@ -203,44 +203,6 @@
       ]
     },
     {
-      "id": "9484",
-      "name": "Alex Smalley",
-      "shortName": "A. Smalley",
-      "country": "USA",
-      "position": "T6",
-      "scoreToPar": -4.0,
-      "scoreDisplay": "-4",
-      "thru": 7,
-      "teeTime": "2026-05-17T18:35Z",
-      "status": "active",
-      "rounds": [
-        -3,
-        -1,
-        -2,
-        2
-      ],
-      "r4Holes": [
-        4,
-        4,
-        4,
-        4,
-        3,
-        6,
-        4,
-        4,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "9780",
       "name": "Jon Rahm",
       "shortName": "J. Rahm",
@@ -393,11 +355,49 @@
       ]
     },
     {
+      "id": "9484",
+      "name": "Alex Smalley",
+      "shortName": "A. Smalley",
+      "country": "USA",
+      "position": "T10",
+      "scoreToPar": -3.0,
+      "scoreDisplay": "-3",
+      "thru": 8,
+      "teeTime": "2026-05-17T18:35Z",
+      "status": "active",
+      "rounds": [
+        -3,
+        -1,
+        -2,
+        3
+      ],
+      "r4Holes": [
+        4,
+        4,
+        4,
+        4,
+        3,
+        6,
+        4,
+        4,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
       "id": "4404992",
       "name": "Ben Griffin",
       "shortName": "B. Griffin",
       "country": "USA",
-      "position": "T11",
+      "position": "T10",
       "scoreToPar": -3.0,
       "scoreDisplay": "-3",
       "thru": 14,
@@ -435,7 +435,7 @@
       "name": "Chris Gotterup",
       "shortName": "C. Gotterup",
       "country": "USA",
-      "position": "T11",
+      "position": "T10",
       "scoreToPar": -3.0,
       "scoreDisplay": "-3",
       "thru": 16,
@@ -473,7 +473,7 @@
       "name": "Justin Rose",
       "shortName": "J. Rose",
       "country": "England",
-      "position": "T11",
+      "position": "T10",
       "scoreToPar": -3.0,
       "scoreDisplay": "-3",
       "thru": 12,
@@ -511,7 +511,7 @@
       "name": "Kurt Kitayama",
       "shortName": "K. Kitayama",
       "country": "USA",
-      "position": "T11",
+      "position": "T10",
       "scoreToPar": -3.0,
       "scoreDisplay": "-3",
       "thru": 18,
@@ -628,7 +628,7 @@
       "position": "T15",
       "scoreToPar": -2.0,
       "scoreDisplay": "-2",
-      "thru": 10,
+      "thru": 11,
       "teeTime": "2026-05-17T17:55Z",
       "status": "active",
       "rounds": [
@@ -727,7 +727,7 @@
         4,
         4,
         3,
-        null,
+        3,
         null,
         null,
         null,
@@ -1464,7 +1464,7 @@
       "position": "T35",
       "scoreToPar": 1.0,
       "scoreDisplay": "+1",
-      "thru": 13,
+      "thru": 14,
       "teeTime": "2026-05-17T17:15Z",
       "status": "active",
       "rounds": [
@@ -1487,7 +1487,7 @@
         4,
         4,
         5,
-        null,
+        3,
         null,
         null,
         null,
@@ -1844,7 +1844,7 @@
       "position": "T44",
       "scoreToPar": 2.0,
       "scoreDisplay": "+2",
-      "thru": 11,
+      "thru": 12,
       "teeTime": "2026-05-17T17:35Z",
       "status": "active",
       "rounds": [
@@ -1865,7 +1865,7 @@
         4,
         4,
         4,
-        null,
+        4,
         null,
         null,
         null,
@@ -2262,9 +2262,9 @@
       "position": "T60",
       "scoreToPar": 4.0,
       "scoreDisplay": "+4",
-      "thru": 17,
+      "thru": 18,
       "teeTime": "2026-05-17T16:35Z",
-      "status": "active",
+      "status": "final",
       "rounds": [
         0,
         3,
@@ -2289,7 +2289,7 @@
         5,
         5,
         3,
-        null
+        4
       ]
     },
     {
