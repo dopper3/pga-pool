@@ -4,12 +4,12 @@
     "name": "PGA Championship",
     "startDate": "2026-05-14T04:00Z",
     "endDate": "2026-05-17T04:00Z",
-    "currentRound": 3,
+    "currentRound": 4,
     "status": "in",
     "statusDescription": "In Progress",
     "cutScore": 4,
     "cutCount": 82,
-    "lastUpdated": "2026-05-17T10:50:41.858579+00:00"
+    "lastUpdated": "2026-05-17T11:59:42.319181+00:00"
   },
   "players": [
     {
@@ -3906,17 +3906,17 @@
       "position": "81",
       "scoreToPar": 10.0,
       "scoreDisplay": "+10",
-      "thru": 0,
+      "thru": 1,
       "teeTime": "2026-05-17T11:40Z",
-      "status": "scheduled",
+      "status": "active",
       "rounds": [
         0,
         2,
         8,
-        null
+        0
       ],
       "r4Holes": [
-        null,
+        4,
         null,
         null,
         null,
@@ -4322,17 +4322,17 @@
       "position": "82",
       "scoreToPar": 16.0,
       "scoreDisplay": "+16",
-      "thru": 0,
+      "thru": 1,
       "teeTime": "2026-05-17T11:40Z",
-      "status": "scheduled",
+      "status": "active",
       "rounds": [
         2,
         2,
         12,
-        null
+        0
       ],
       "r4Holes": [
-        null,
+        4,
         null,
         null,
         null,
