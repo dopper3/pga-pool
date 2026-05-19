@@ -1,222 +1,258 @@
 {
-  "entries": [
+  "entries": [],
+  "rejected": [
     {
-      "source": "form",
       "displayName": "Shit Tickets",
       "submittedAt": "2026-05-13T22:58:51+00:00",
-      "picks": [
+      "rawPicks": [
+        "Jordan Spieth",
+        "Rory McIlroy",
+        "Cameron Young",
+        "Scottie Scheffler",
+        "Tommy Fleetwood",
+        "Patrick Reed"
+      ],
+      "errors": [
         {
-          "id": "5467",
-          "name": "Jordan Spieth"
+          "pickIndex": 2,
+          "input": "Rory McIlroy",
+          "message": "no field player matches 'Rory McIlroy'"
         },
         {
-          "id": "3470",
-          "name": "Rory McIlroy"
+          "pickIndex": 3,
+          "input": "Cameron Young",
+          "message": "no field player matches 'Cameron Young'"
         },
         {
-          "id": "4425906",
-          "name": "Cameron Young"
+          "pickIndex": 5,
+          "input": "Tommy Fleetwood",
+          "message": "no field player matches 'Tommy Fleetwood'"
         },
         {
-          "id": "9478",
-          "name": "Scottie Scheffler"
-        },
-        {
-          "id": "5539",
-          "name": "Tommy Fleetwood"
-        },
-        {
-          "id": "5579",
-          "name": "Patrick Reed"
+          "pickIndex": 6,
+          "input": "Patrick Reed",
+          "message": "no field player matches 'Patrick Reed'"
         }
       ]
     },
     {
-      "source": "form",
       "displayName": "Mike Litteris",
       "submittedAt": "2026-05-13T23:15:05+00:00",
-      "picks": [
+      "rawPicks": [
+        "Cameron Young",
+        "Scottie Scheffler",
+        "Jon Rahm",
+        "Rory McIlroy",
+        "Ludvig Åberg",
+        "Matt Fitzpatrick"
+      ],
+      "errors": [
         {
-          "id": "4425906",
-          "name": "Cameron Young"
+          "pickIndex": 1,
+          "input": "Cameron Young",
+          "message": "no field player matches 'Cameron Young'"
         },
         {
-          "id": "9478",
-          "name": "Scottie Scheffler"
+          "pickIndex": 3,
+          "input": "Jon Rahm",
+          "message": "no field player matches 'Jon Rahm'"
         },
         {
-          "id": "9780",
-          "name": "Jon Rahm"
+          "pickIndex": 4,
+          "input": "Rory McIlroy",
+          "message": "no field player matches 'Rory McIlroy'"
         },
         {
-          "id": "3470",
-          "name": "Rory McIlroy"
+          "pickIndex": 5,
+          "input": "Ludvig Åberg",
+          "message": "no field player matches 'Ludvig Åberg'"
         },
         {
-          "id": "4375972",
-          "name": "Ludvig Åberg"
-        },
-        {
-          "id": "9037",
-          "name": "Matt Fitzpatrick"
+          "pickIndex": 6,
+          "input": "Matt Fitzpatrick",
+          "message": "no field player matches 'Matt Fitzpatrick'"
         }
       ]
     },
     {
-      "source": "form",
       "displayName": "Stella Virgin",
       "submittedAt": "2026-05-13T23:27:03+00:00",
-      "picks": [
+      "rawPicks": [
+        "Xander Schauffele",
+        "Tommy Fleetwood",
+        "Brooks Koepka",
+        "Bryson DeChambeau",
+        "Cameron Young",
+        "Scottie Scheffler"
+      ],
+      "errors": [
         {
-          "id": "10140",
-          "name": "Xander Schauffele"
+          "pickIndex": 1,
+          "input": "Xander Schauffele",
+          "message": "no field player matches 'Xander Schauffele'"
         },
         {
-          "id": "5539",
-          "name": "Tommy Fleetwood"
+          "pickIndex": 2,
+          "input": "Tommy Fleetwood",
+          "message": "no field player matches 'Tommy Fleetwood'"
         },
         {
-          "id": "6798",
-          "name": "Brooks Koepka"
+          "pickIndex": 4,
+          "input": "Bryson DeChambeau",
+          "message": "no field player matches 'Bryson DeChambeau'"
         },
         {
-          "id": "10046",
-          "name": "Bryson DeChambeau"
-        },
-        {
-          "id": "4425906",
-          "name": "Cameron Young"
-        },
-        {
-          "id": "9478",
-          "name": "Scottie Scheffler"
+          "pickIndex": 5,
+          "input": "Cameron Young",
+          "message": "no field player matches 'Cameron Young'"
         }
       ]
     },
     {
-      "source": "form",
       "displayName": "Piss Missile",
       "submittedAt": "2026-05-14T07:09:59+00:00",
-      "picks": [
+      "rawPicks": [
+        "Scottie Scheffler",
+        "Rory McIlroy",
+        "Ludvig Åberg",
+        "Jordan Spieth",
+        "Collin Morikawa",
+        "Patrick Cantlay"
+      ],
+      "errors": [
         {
-          "id": "9478",
-          "name": "Scottie Scheffler"
+          "pickIndex": 2,
+          "input": "Rory McIlroy",
+          "message": "no field player matches 'Rory McIlroy'"
         },
         {
-          "id": "3470",
-          "name": "Rory McIlroy"
+          "pickIndex": 3,
+          "input": "Ludvig Åberg",
+          "message": "no field player matches 'Ludvig Åberg'"
         },
         {
-          "id": "4375972",
-          "name": "Ludvig Åberg"
+          "pickIndex": 5,
+          "input": "Collin Morikawa",
+          "message": "no field player matches 'Collin Morikawa'"
         },
         {
-          "id": "5467",
-          "name": "Jordan Spieth"
-        },
-        {
-          "id": "10592",
-          "name": "Collin Morikawa"
-        },
-        {
-          "id": "6007",
-          "name": "Patrick Cantlay"
+          "pickIndex": 6,
+          "input": "Patrick Cantlay",
+          "message": "no field player matches 'Patrick Cantlay'"
         }
       ]
     },
     {
-      "source": "form",
       "displayName": "The coworker",
       "submittedAt": "2026-05-14T07:50:46+00:00",
-      "picks": [
+      "rawPicks": [
+        "Cameron Young",
+        "Chris Gotterup",
+        "Justin Rose",
+        "Matt Fitzpatrick",
+        "Rory McIlroy",
+        "Scottie Scheffler"
+      ],
+      "errors": [
         {
-          "id": "4425906",
-          "name": "Cameron Young"
+          "pickIndex": 1,
+          "input": "Cameron Young",
+          "message": "no field player matches 'Cameron Young'"
         },
         {
-          "id": "4690755",
-          "name": "Chris Gotterup"
+          "pickIndex": 2,
+          "input": "Chris Gotterup",
+          "message": "no field player matches 'Chris Gotterup'"
         },
         {
-          "id": "569",
-          "name": "Justin Rose"
+          "pickIndex": 3,
+          "input": "Justin Rose",
+          "message": "no field player matches 'Justin Rose'"
         },
         {
-          "id": "9037",
-          "name": "Matt Fitzpatrick"
+          "pickIndex": 4,
+          "input": "Matt Fitzpatrick",
+          "message": "no field player matches 'Matt Fitzpatrick'"
         },
         {
-          "id": "3470",
-          "name": "Rory McIlroy"
-        },
-        {
-          "id": "9478",
-          "name": "Scottie Scheffler"
+          "pickIndex": 5,
+          "input": "Rory McIlroy",
+          "message": "no field player matches 'Rory McIlroy'"
         }
       ]
     },
     {
-      "source": "form",
       "displayName": "The coworker’s coworker",
       "submittedAt": "2026-05-14T08:14:08+00:00",
-      "picks": [
+      "rawPicks": [
+        "Bryson DeChambeau",
+        "Scottie Scheffler",
+        "Xander Schauffele",
+        "Matt Fitzpatrick",
+        "Cameron Young",
+        "Rory McIlroy"
+      ],
+      "errors": [
         {
-          "id": "10046",
-          "name": "Bryson DeChambeau"
+          "pickIndex": 1,
+          "input": "Bryson DeChambeau",
+          "message": "no field player matches 'Bryson DeChambeau'"
         },
         {
-          "id": "9478",
-          "name": "Scottie Scheffler"
+          "pickIndex": 3,
+          "input": "Xander Schauffele",
+          "message": "no field player matches 'Xander Schauffele'"
         },
         {
-          "id": "10140",
-          "name": "Xander Schauffele"
+          "pickIndex": 4,
+          "input": "Matt Fitzpatrick",
+          "message": "no field player matches 'Matt Fitzpatrick'"
         },
         {
-          "id": "9037",
-          "name": "Matt Fitzpatrick"
+          "pickIndex": 5,
+          "input": "Cameron Young",
+          "message": "no field player matches 'Cameron Young'"
         },
         {
-          "id": "4425906",
-          "name": "Cameron Young"
-        },
-        {
-          "id": "3470",
-          "name": "Rory McIlroy"
+          "pickIndex": 6,
+          "input": "Rory McIlroy",
+          "message": "no field player matches 'Rory McIlroy'"
         }
       ]
     },
     {
-      "source": "form",
       "displayName": "Cleo",
       "submittedAt": "2026-05-14T09:48:58+00:00",
-      "picks": [
+      "rawPicks": [
+        "Cameron Young",
+        "Jon Rahm",
+        "Rory McIlroy",
+        "Scottie Scheffler",
+        "Stephan Jaeger",
+        "Tommy Fleetwood"
+      ],
+      "errors": [
         {
-          "id": "4425906",
-          "name": "Cameron Young"
+          "pickIndex": 1,
+          "input": "Cameron Young",
+          "message": "no field player matches 'Cameron Young'"
         },
         {
-          "id": "9780",
-          "name": "Jon Rahm"
+          "pickIndex": 2,
+          "input": "Jon Rahm",
+          "message": "no field player matches 'Jon Rahm'"
         },
         {
-          "id": "3470",
-          "name": "Rory McIlroy"
+          "pickIndex": 3,
+          "input": "Rory McIlroy",
+          "message": "no field player matches 'Rory McIlroy'"
         },
         {
-          "id": "9478",
-          "name": "Scottie Scheffler"
-        },
-        {
-          "id": "6937",
-          "name": "Stephan Jaeger"
-        },
-        {
-          "id": "5539",
-          "name": "Tommy Fleetwood"
+          "pickIndex": 6,
+          "input": "Tommy Fleetwood",
+          "message": "no field player matches 'Tommy Fleetwood'"
         }
       ]
     }
-  ],
-  "rejected": []
+  ]
 }
