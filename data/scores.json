@@ -4,12 +4,12 @@
     "name": "THE CJ CUP Byron Nelson",
     "startDate": "2026-05-21T04:00Z",
     "endDate": "2026-05-24T04:00Z",
-    "currentRound": 3,
+    "currentRound": 4,
     "status": "in",
     "statusDescription": "In Progress",
     "cutScore": -6,
     "cutCount": 70,
-    "lastUpdated": "2026-05-24T11:02:32.343760+00:00"
+    "lastUpdated": "2026-05-24T12:11:44.558774+00:00"
   },
   "players": [
     {
@@ -2414,17 +2414,17 @@
       "position": "T63",
       "scoreToPar": -7.0,
       "scoreDisplay": "-7",
-      "thru": 0,
+      "thru": 1,
       "teeTime": "2026-05-24T11:54Z",
-      "status": "scheduled",
+      "status": "active",
       "rounds": [
         -2,
         -4,
         -1,
-        null
+        0
       ],
       "r4Holes": [
-        null,
+        4,
         null,
         null,
         null,
@@ -2559,62 +2559,24 @@
       ]
     },
     {
-      "id": "9127",
-      "name": "Adam Svensson",
-      "shortName": "A. Svensson",
-      "country": "Canada",
-      "position": "T68",
-      "scoreToPar": -6.0,
-      "scoreDisplay": "-6",
-      "thru": 0,
-      "teeTime": "2026-05-24T11:45Z",
-      "status": "scheduled",
-      "rounds": [
-        -3,
-        -3,
-        0,
-        null
-      ],
-      "r4Holes": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
       "id": "9040",
       "name": "Zac Blair",
       "shortName": "Z. Blair",
       "country": "USA",
-      "position": "T68",
+      "position": "68",
       "scoreToPar": -6.0,
       "scoreDisplay": "-6",
-      "thru": 0,
+      "thru": 1,
       "teeTime": "2026-05-24T11:54Z",
-      "status": "scheduled",
+      "status": "active",
       "rounds": [
         -1,
         -6,
         1,
-        null
+        0
       ],
       "r4Holes": [
-        null,
+        4,
         null,
         null,
         null,
@@ -2729,21 +2691,21 @@
       "name": "Lanto Griffin",
       "shortName": "L. Griffin",
       "country": "USA",
-      "position": "70",
+      "position": "69",
       "scoreToPar": -5.0,
       "scoreDisplay": "-5",
-      "thru": 0,
+      "thru": 2,
       "teeTime": "2026-05-24T11:45Z",
-      "status": "scheduled",
+      "status": "active",
       "rounds": [
         -6,
         -2,
         3,
-        null
+        0
       ],
       "r4Holes": [
-        null,
-        null,
+        4,
+        4,
         null,
         null,
         null,
@@ -3136,6 +3098,44 @@
       "rounds": [
         -1,
         -2,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "9127",
+      "name": "Adam Svensson",
+      "shortName": "A. Svensson",
+      "country": "Canada",
+      "position": "70",
+      "scoreToPar": -3.0,
+      "scoreDisplay": "-3",
+      "thru": 2,
+      "teeTime": "2026-05-24T11:45Z",
+      "status": "active",
+      "rounds": [
+        -3,
+        -3,
+        0,
+        3
+      ],
+      "r4Holes": [
+        6,
+        5,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
         null,
         null
       ]
@@ -3850,7 +3850,7 @@
       "position": "-",
       "scoreToPar": 3.0,
       "scoreDisplay": "+3",
-      "thru": 0,
+      "thru": null,
       "teeTime": null,
       "status": "wd",
       "rounds": [
