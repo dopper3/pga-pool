@@ -14,6 +14,11 @@
       ],
       "errors": [
         {
+          "pickIndex": 1,
+          "input": "Jordan Spieth",
+          "message": "no field player matches 'Jordan Spieth'"
+        },
+        {
           "pickIndex": 2,
           "input": "Rory McIlroy",
           "message": "no field player matches 'Rory McIlroy'"
@@ -22,6 +27,11 @@
           "pickIndex": 3,
           "input": "Cameron Young",
           "message": "no field player matches 'Cameron Young'"
+        },
+        {
+          "pickIndex": 4,
+          "input": "Scottie Scheffler",
+          "message": "no field player matches 'Scottie Scheffler'"
         },
         {
           "pickIndex": 5,
@@ -53,6 +63,11 @@
           "message": "no field player matches 'Cameron Young'"
         },
         {
+          "pickIndex": 2,
+          "input": "Scottie Scheffler",
+          "message": "no field player matches 'Scottie Scheffler'"
+        },
+        {
           "pickIndex": 3,
           "input": "Jon Rahm",
           "message": "no field player matches 'Jon Rahm'"
@@ -61,11 +76,6 @@
           "pickIndex": 4,
           "input": "Rory McIlroy",
           "message": "no field player matches 'Rory McIlroy'"
-        },
-        {
-          "pickIndex": 5,
-          "input": "Ludvig Åberg",
-          "message": "no field player matches 'Ludvig Åberg'"
         },
         {
           "pickIndex": 6,
@@ -97,6 +107,11 @@
           "message": "no field player matches 'Tommy Fleetwood'"
         },
         {
+          "pickIndex": 3,
+          "input": "Brooks Koepka",
+          "message": "no field player matches 'Brooks Koepka'"
+        },
+        {
           "pickIndex": 4,
           "input": "Bryson DeChambeau",
           "message": "no field player matches 'Bryson DeChambeau'"
@@ -105,6 +120,11 @@
           "pickIndex": 5,
           "input": "Cameron Young",
           "message": "no field player matches 'Cameron Young'"
+        },
+        {
+          "pickIndex": 6,
+          "input": "Scottie Scheffler",
+          "message": "no field player matches 'Scottie Scheffler'"
         }
       ]
     },
@@ -121,14 +141,19 @@
       ],
       "errors": [
         {
+          "pickIndex": 1,
+          "input": "Scottie Scheffler",
+          "message": "no field player matches 'Scottie Scheffler'"
+        },
+        {
           "pickIndex": 2,
           "input": "Rory McIlroy",
           "message": "no field player matches 'Rory McIlroy'"
         },
         {
-          "pickIndex": 3,
-          "input": "Ludvig Åberg",
-          "message": "no field player matches 'Ludvig Åberg'"
+          "pickIndex": 4,
+          "input": "Jordan Spieth",
+          "message": "no field player matches 'Jordan Spieth'"
         },
         {
           "pickIndex": 5,
@@ -178,6 +203,11 @@
           "pickIndex": 5,
           "input": "Rory McIlroy",
           "message": "no field player matches 'Rory McIlroy'"
+        },
+        {
+          "pickIndex": 6,
+          "input": "Scottie Scheffler",
+          "message": "no field player matches 'Scottie Scheffler'"
         }
       ]
     },
@@ -197,6 +227,11 @@
           "pickIndex": 1,
           "input": "Bryson DeChambeau",
           "message": "no field player matches 'Bryson DeChambeau'"
+        },
+        {
+          "pickIndex": 2,
+          "input": "Scottie Scheffler",
+          "message": "no field player matches 'Scottie Scheffler'"
         },
         {
           "pickIndex": 3,
@@ -246,6 +281,11 @@
           "pickIndex": 3,
           "input": "Rory McIlroy",
           "message": "no field player matches 'Rory McIlroy'"
+        },
+        {
+          "pickIndex": 4,
+          "input": "Scottie Scheffler",
+          "message": "no field player matches 'Scottie Scheffler'"
         },
         {
           "pickIndex": 6,
