@@ -9,7 +9,7 @@
     "statusDescription": "Scheduled",
     "cutScore": 0,
     "cutCount": 0,
-    "lastUpdated": "2026-05-26T17:26:42.262083+00:00"
+    "lastUpdated": "2026-05-26T19:34:28.772909+00:00"
   },
   "players": [
     {
@@ -400,24 +400,6 @@
       "scoreDisplay": "-",
       "thru": 0,
       "teeTime": "2026-05-28T13:28Z",
-      "status": "scheduled",
-      "rounds": [
-        null,
-        null,
-        null,
-        null
-      ]
-    },
-    {
-      "id": "5338",
-      "name": "Bud Cauley",
-      "shortName": "B. Cauley",
-      "country": "USA",
-      "position": "-",
-      "scoreToPar": 0.0,
-      "scoreDisplay": "-",
-      "thru": 0,
-      "teeTime": "2026-05-28T17:57Z",
       "status": "scheduled",
       "rounds": [
         null,
@@ -1732,6 +1714,24 @@
       "scoreDisplay": "-",
       "thru": 0,
       "teeTime": "2026-05-28T12:33Z",
+      "status": "scheduled",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "4358083",
+      "name": "Patrick Fishburn",
+      "shortName": "P. Fishburn",
+      "country": "USA",
+      "position": "-",
+      "scoreToPar": 0.0,
+      "scoreDisplay": "-",
+      "thru": 0,
+      "teeTime": "2026-05-28T17:57Z",
       "status": "scheduled",
       "rounds": [
         null,
